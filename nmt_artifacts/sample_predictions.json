@@ -1,0 +1,1802 @@
+[
+  {
+    "english": "In the Rs.",
+    "reference": "పంథాలో ఏడాదికి కాలంలో రూ.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "రూ."
+  },
+  {
+    "english": "In the third phase, 69 assembly seats spread over 12 districts will go to polls.",
+    "reference": "ఈ దశలో 12 జిల్లాల్లోని 69 నియోజక వర్గాలకు పోలింగ్‌ నిర్వహించనున్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మూడో దశలో 12 జిల్లాల్లో 69 అసెంబ్లీ సీట్లు పోలింగ్కు వెళ్తాయి."
+  },
+  {
+    "english": "BSE Midcap and Smallcap indices shed 0.4 per cent each.",
+    "reference": "బీఎస్‌ఈలో మిడ్‌, స్మాల్‌క్యాప్‌ ఇండెక్సులు 0.4 శాతం చొప్పున నీరసించాయి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "BSE మిడ్ క్యాప్, స్మాల్ క్యాప్ సూచికలు 0.4% తగ్గుతాయి."
+  },
+  {
+    "english": "(He has gone mad.",
+    "reference": "(అంటూ విసుక్కుని వెళ్లిపోయాడు.",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "(అతను వెర్రి మారింది."
+  },
+  {
+    "english": "By virtue...",
+    "reference": "అద్వానంగా .",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "ధర్మశాస్త్రం ద్వారా."
+  },
+  {
+    "english": "I stared at the squirrel.",
+    "reference": "విసుగ్గా వాచీ కేసి చూసుకున్నాను.",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "నేను ఎద్దును చూసాను."
+  },
+  {
+    "english": "Last date to apply: April 24",
+    "reference": "దరఖాస్తులకు చివరితేదీ :24 ఏప్రిల్ 2019",
+    "scratch": "గత 24 గంటల్లో <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "దరఖాస్తుకు చివరి తేదీః ఏప్రిల్ 24"
+  },
+  {
+    "english": "Working with new directors.",
+    "reference": "కొత్త దర్శకులతో పనిచేయాలని కోరుకుంటున్నాను.",
+    "scratch": "కొత్త కొత్త <unk>",
+    "nllb": "కొత్త దర్శకులతో పని."
+  },
+  {
+    "english": "Lalu Yadav had recently undergone a fistula operation at a Mumbai hospital.",
+    "reference": "ఇటీవలనే ముంబాయి ఆసుపత్రిలో లాలూజీ ఫిస్టులా ఆపరేషన్ చేసుకున్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "లాలూ యాదవ్ ఇటీవల ముంబై ఆసుపత్రిలో ఫిస్టల్ ఆపరేషన్ చేయించుకున్నారు."
+  },
+  {
+    "english": "However these factors have not stopped it becoming highly popular.",
+    "reference": "అయినప్పటికీ, దీని ప్రభావము మనమీద తెలియదు ఇంకా అధికముగా అలక్ష్యము చేశారు.",
+    "scratch": "ఈ <unk> <unk> <unk> <unk> <unk> కాదు.",
+    "nllb": "అయితే, ఈ కారణాల వల్ల ఇది ప్రజాదరణ పొందింది."
+  },
+  {
+    "english": "I am sure this film will be successful.",
+    "reference": "ఈ సినిమాతో సక్సెస్ అందుకుంటానని కాన్ఫిడెంట్‌గా ఉన్నా.",
+    "scratch": "ఈ సినిమా <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ సినిమా విజయవంతం అవుతుందని నేను ఖచ్చితంగా అనుకుంటున్నాను."
+  },
+  {
+    "english": "These photos soon went viral on social media.",
+    "reference": "ఈ రెండు రిలీజైన కొద్దిసేపట్లోనే సోషల్ మీడియాలో వైరల్ గా మారాయి.",
+    "scratch": "ఈ ఫోటోలు సామాజిక మాధ్యమాల్లో సామాజిక మాధ్యమాల్లో సామాజిక మాధ్యమాల్లో వైరల్‌ వైరల్‌ వైరల్‌ వైరల్‌ వైరల్‌",
+    "nllb": "ఈ ఫోటోలు త్వరలోనే సోషల్ మీడియాలో వైరల్ అయ్యాయి."
+  },
+  {
+    "english": "The process has to attract investors rather than scare them away.",
+    "reference": "ఇది ముఖ్యముగా ఆటగాళ్ళు తక్కువగా ఉండటం మరియు పెట్టుబడి లేకపోవటం.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ ప్రక్రియ పెట్టుబడిదారులను భయపెట్టకుండా ఆకర్షించాలి."
+  },
+  {
+    "english": "The parents of the victim lodged a complaint with the police.",
+    "reference": "బాధిత యువతి తల్లిదండ్రులు శాడిస్ట్‌ యువకుడిపై పోలీసులకు ఫిర్యాదు చేశారు.",
+    "scratch": "<unk> <unk> పోలీసులకు ఫిర్యాదు పోలీసులకు ఫిర్యాదు ఫిర్యాదు ఫిర్యాదు చేశారు.",
+    "nllb": "బాధితుడి తల్లిదండ్రులు పోలీసులకు ఫిర్యాదు చేశారు."
+  },
+  {
+    "english": "This time louder.",
+    "reference": "ఈ సారి మరింత హాట్‌హాట్‌గా",
+    "scratch": "ఈ <unk> <unk>",
+    "nllb": "ఈసారి బిగ్గరగా."
+  },
+  {
+    "english": "Northumberland Compensation Appeal Tribunal",
+    "reference": "నార్తంబర్లాండ్ కాంపెన్సేషన్ అప్పీల్ ట్రిబ్యునల్",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "నార్తంబర్ల్యాండ్ పరిహార అప్పీల్ ట్రిబ్యునల్"
+  },
+  {
+    "english": "He later visited Sri Laxmi Narsimha Swamy temple and conducted the rituals.",
+    "reference": "అనంతరం ధర్మపురి శ్రీ లక్ష్మి నరసింహ స్వామిని దర్శించుకుని ప్రత్యేక పూజలు చేశారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "తరువాత ఆయన శ్రీ లక్ష్మి నర్సింహా స్వామి ఆలయాన్ని సందర్శించి ఆచారాలను నిర్వహించారు."
+  },
+  {
+    "english": "its nothing new",
+    "reference": "ఇది కొత్తది కాదు",
+    "scratch": "కొత్త కొత్త <unk>",
+    "nllb": "ఇది కొత్త ఏమీ"
+  },
+  {
+    "english": "Police detained many Congress workers during the bandh.",
+    "reference": "ఈసందర్భంగా పలువురు కాంగ్రెస్ కార్యకర్తలను పోలీసులు అరెస్ట్ చేశారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "బంద్ సమయంలో పలువురు కాంగ్రెస్ కార్యకర్తలను పోలీసులు అరెస్టు చేశారు."
+  },
+  {
+    "english": "The constable was injured in the attack.",
+    "reference": "ఈ దాడిలో కానిస్టేబుల్ చిటికెన వేలు తెగిపడిపోయింది.",
+    "scratch": "ఈ <unk> <unk> <unk> గాయపడ్డాడు.",
+    "nllb": "ఈ దాడిలో కాన్స్టాబుల్ గాయపడ్డాడు."
+  },
+  {
+    "english": "A school is established for all children.",
+    "reference": "తమ పిల్లలంతా చదువుకునేందుకు వీలుగా ఒక పాఠశాలను కూడా ఏర్పాటు చేశాడు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అన్ని పిల్లలకు ఒక పాఠశాల ఏర్పాటు చేయబడింది."
+  },
+  {
+    "english": "It was followed by the several cultural performances.",
+    "reference": "అనంతరం చేపట్టిన పలు సాంస్కృతిక కార్యక్రమాలు అలరించాయి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "దీని తరువాత అనేక సాంస్కృతిక ప్రదర్శనలు జరిగాయి."
+  },
+  {
+    "english": "The centre can accommodate 70 people.",
+    "reference": "ప్రధాన హాలు ప్రదేశాల్లో 70 మంది సదుపాయాన్ని.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ కేంద్రం 70 మందికి సదుపాయం కల్పిస్తుంది."
+  },
+  {
+    "english": "\"\"\"They don't want people to talk about that\"",
+    "reference": "ప్రజలు వారి కులాన్ని చెప్పేందుకు ఇష్టపడటం లేదు",
+    "scratch": "<unk> గురించి <unk> <unk> <unk> <unk>",
+    "nllb": "\"\"\"వారు ప్రజలు దాని గురించి మాట్లాడటానికి ఇష్టం లేదు\""
+  },
+  {
+    "english": "\"I'm very happy about that.\"\"\"",
+    "reference": "అందుకు చాలా సంతోషంగా ఉంది 'అన్నారు ఆనంద గౌడ ఆవేదనగా.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "\"నేను దాని గురించి చాలా సంతోషంగా ఉన్నాను. \"\"\""
+  },
+  {
+    "english": "A calsh took place between the two parties workers.",
+    "reference": "ఈ క్రమంలో ఇరు పార్టీల కార్యకర్తల మధ్య ఘర్షణ జరిగింది.",
+    "scratch": "<unk> మధ్య మధ్య మధ్య మధ్య మధ్య <unk> మధ్య <unk> <unk>",
+    "nllb": "రెండు పార్టీల కార్మికుల మధ్య ఘర్షణ జరిగింది."
+  },
+  {
+    "english": "No proper studies, however, have been taken up in this regard.",
+    "reference": "అయితే దీనికి సంబంధించి ఖచ్చితమైన అధ్యయనాలు లేవు.",
+    "scratch": "కానీ <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అయితే, ఈ విషయంలో సరైన అధ్యయనాలు చేపట్టలేదు."
+  },
+  {
+    "english": "Dances and songs were presented.",
+    "reference": "గీతాలు ఆలపించారు, నృత్యాలు నర్తించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "నృత్యాలు మరియు పాటలు ప్రదర్శించబడ్డాయి."
+  },
+  {
+    "english": "Whats it going to be this time?",
+    "reference": "మరి ఈసారి ఏమవుతుందో!",
+    "scratch": "ఈ <unk> <unk>",
+    "nllb": "ఇది ఈసారి ఏమి ఉంటుంది?"
+  },
+  {
+    "english": "O king!",
+    "reference": "“మహారాజా!",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "ఓ రాజా!"
+  },
+  {
+    "english": "Does Anyone Have a Pencil? BY AWAKE! WRITER IN BRITAIN",
+    "reference": "మీ దగ్గర పెన్సిలుందా?",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఒక పెన్సిల్ ఎవరికైనా ఉందా?"
+  },
+  {
+    "english": "The phone is available in 6GB and 8GB RAM variants as well.",
+    "reference": "అక్కడ 6 జీబీ ర్యామ్, 8 జీబీ ర్యామ్ వేరియంట్‌ల్లో ఈ ఫోన్ లాంచ్ అయింది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ ఫోన్ 6జీబీ మరియు 8జీబీ ర్యామ్ వేరియంట్లలో కూడా లభిస్తుంది."
+  },
+  {
+    "english": "It will serve as a powerful teaching aid to help individuals with limited education or reading ability to learn about Jehovah.",
+    "reference": "అనే బ్రోషూరు విడుదల చేయబడింది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బైబిలు బై"
+  },
+  {
+    "english": "BJPs chief ministerial candidate B S Yeddyurappa met the Governor this morning.",
+    "reference": "ఈ ఉదయం బీజేపీ ముఖ్యమంత్రి అభ్యర్థి బీఎస్ యడ్యూరప్ప ఈ మేనిఫెస్టోను విడుదల చేశారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "బిజెపి ముఖ్యమంత్రి అభ్యర్థి బిఎస్ యెడ్డియూరప్ప ఈ రోజు ఉదయం గవర్నర్తో భేటీ అయ్యారు."
+  },
+  {
+    "english": "There are two things to consider.",
+    "reference": "ఆలోచిస్తే రెండు విషయాలు తడతాయి.",
+    "scratch": "రెండు రెండు <unk> <unk>",
+    "nllb": "రెండు విషయాలను పరిగణనలోకి తీసుకోవాలి."
+  },
+  {
+    "english": "The Bible states: The plans of the diligent one surely make for advantage, but everyone that is hasty surely heads for want.",
+    "reference": "ముందుగా ఆలోచించని వాటిని కొనకండి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "బైబిలు ఇలా చెబుతోందిః \"ప్రియాపతియొక్క ఆలోచనలు ప్రయోజనము కలుగజేయును; త్వరితగతిన నడుచుకొనువాడెవడును నిశ్చయముగా దరిద్రమునకు దారి తీయును."
+  },
+  {
+    "english": "Sonakshi Sinha played the female lead in the film.",
+    "reference": "సోనాక్షి సిన్హా ఈ సినిమాలో లీడ్‌ రోల్‌ పోషించింది.",
+    "scratch": "ఈ సినిమాలో <unk> <unk> <unk> హీరోయిన్లుగా నటిస్తున్నారు.",
+    "nllb": "ఈ చిత్రంలో సోనాక్షీ సిన్హా మహిళా ప్రధాన పాత్ర పోషించారు."
+  },
+  {
+    "english": "I am loving it.",
+    "reference": "నాకు పనంటే ప్రేమ.",
+    "scratch": "నేను <unk> <unk>",
+    "nllb": "నేను అది ప్రేమిస్తున్నాను."
+  },
+  {
+    "english": "Relax your muscles.",
+    "reference": "కండరాలకు విశ్రాంతి లభిస్తుంది.",
+    "scratch": "మీ <unk> <unk>",
+    "nllb": "మీ కండరాలు విశ్రాంతి."
+  },
+  {
+    "english": "Is that why?",
+    "reference": "అందుకే అలా?",
+    "scratch": "<unk> <unk>",
+    "nllb": "అందుకేనా?"
+  },
+  {
+    "english": "Four women were also rescued.",
+    "reference": "అక్కడి నుంచి నలుగురు మహిళలను రక్షించింది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "నలుగురు మహిళలను కూడా రక్షించారు."
+  },
+  {
+    "english": "Trees were uprooted at many places.",
+    "reference": "పలు ప్రాంతాల్లో చెట్లు నేలకొరిగాయి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అనేక చోట్ల చెట్లను కత్తిరించారు."
+  },
+  {
+    "english": "After the 16th century, the goats hair was sometimes replaced by fine wire with sharp points turned toward the body.",
+    "reference": "16వ శతాబ్దం తర్వాత, కొన్ని సందర్భాల్లో మేకబొచ్చుకు బదులు, మొనదేలిన సన్నతీగెలను ఒంటికి గుచ్చుకునే చొక్కాలా వేసుకునేవారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "16 వ శతాబ్దం తరువాత, మేకల జుట్టును కొన్నిసార్లు శరీరం వైపు తిరిగే పదునైన పాయింట్లతో జరిమానా తీగతో భర్తీ చేశారు."
+  },
+  {
+    "english": "Please stay home.",
+    "reference": "దయచేసి ఇంట్లో ఉండండి.",
+    "scratch": "దయచేసి <unk> <unk> <unk>",
+    "nllb": "దయచేసి ఇంట్లో ఉండండి."
+  },
+  {
+    "english": "But thats a story for another film.",
+    "reference": "అయితే ఈ సినిమాపై మరో కేసు దాఖలైంది.",
+    "scratch": "అయితే ఈ సినిమా సినిమా <unk> <unk>",
+    "nllb": "కానీ అది మరొక చిత్రం కోసం ఒక కథ."
+  },
+  {
+    "english": "State Bank of India also rallied almost 1%, ahead of its numbers that are to be declared on Friday.",
+    "reference": "శుక్రవారం స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా తన నెంబర్స్‌ను విడుదల చేస్తుండడంతో 1శాతం వరకు స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా షేర్ ఎగబాకింది.",
+    "scratch": "దేశీ స్టేట్ ఆఫ్ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా కూడా శుక్రవారం ప్రకటించనున్న దాని సంఖ్యలను మించి దాదాపు 1 శాతం వృద్ధి సాధించింది."
+  },
+  {
+    "english": "Trying to stay out there for as long as possible, he says.",
+    "reference": "వీలైనంత కాలం కొనసాగడానికి ప్రయత్నిస్తా' అని అన్నాడు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "వీలైనంత కాలం అక్కడే ఉండటానికి ప్రయత్నిస్తున్నానని ఆయన చెప్పారు."
+  },
+  {
+    "english": "Free hand.",
+    "reference": "ఉచితచేతి.",
+    "scratch": "ఉచిత <unk> <unk>",
+    "nllb": "ఉచిత చేతి."
+  },
+  {
+    "english": "Searches are still ongoing in the area.",
+    "reference": "ఆ ప్రాంతంలో ఎదురుకాల్పులు ఇంకా కొనసాగుతున్నాయి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ ప్రాంతంలో శోధనలు కొనసాగుతున్నాయి."
+  },
+  {
+    "english": "The film is reported to be an action thriller.",
+    "reference": "సినిమాను యాక్షన్ థ్రిల్లర్‌గా తెరకెక్కించినట్లు ట్రైలర్‌ను బట్టే అర్థమవుతోంది.",
+    "scratch": "ఈ సినిమా <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ చిత్రం ఒక యాక్షన్ థ్రిల్లర్ అని నివేదించారు."
+  },
+  {
+    "english": "The Centre, however, doesnt agree.",
+    "reference": "కాని కేంద్రం ప్రత్యేకహోదాకు ఒప్పుకోదు.",
+    "scratch": "అయితే <unk> <unk> <unk>",
+    "nllb": "అయితే, కేంద్రం దీనికి ఒప్పుకోదు."
+  },
+  {
+    "english": "M Reddy is the director of Telugu and Tamil movies",
+    "reference": "వీటిలో తెలుగు తమిళ చిత్రాల సారధిహెచ్.ఎమ్.రెడ్డి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఎం రెడ్డీ తెలుగు, తమిళ సినిమాల దర్శకుడు"
+  },
+  {
+    "english": "The children themselves are this book.",
+    "reference": "పోలవరపు అబ్బులు ఈ పత్రిక సంపాదకుడు.",
+    "scratch": "ఈ విధంగా <unk> <unk> <unk> <unk>",
+    "nllb": "పిల్లలు కూడా ఈ పుస్తకం."
+  },
+  {
+    "english": "He has Rs.",
+    "reference": "అతడి వద్ద నుంచి రూ.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఆయన వద్ద రూ."
+  },
+  {
+    "english": "Notice issued",
+    "reference": "నోటీసు జారీ",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "నోటిఫికేషన్ జారీ"
+  },
+  {
+    "english": "For what fellowship do righteousness and lawlessness have?",
+    "reference": "నీతికి దుర్ణీతితో ఏమి సాంగత్యము?",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ధర్మశాస్త్రమునకు విరోధమునకు ఏ సమాధానము కలదు?"
+  },
+  {
+    "english": "Don't cross the limit",
+    "reference": "పరిమితికి మించొద్దు",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "సరిహద్దు దాటవద్దు"
+  },
+  {
+    "english": "Knowledge Matters.",
+    "reference": "ఇవి కథాంశాలు.",
+    "scratch": "<unk> <unk>",
+    "nllb": "జ్ఞానం ముఖ్యం."
+  },
+  {
+    "english": "Initiate the process",
+    "reference": "ప్రక్రియ ప్రారంభించండి",
+    "scratch": "ప్రక్రియ ప్రక్రియ ప్రక్రియ",
+    "nllb": "ప్రక్రియను ప్రారంభించండి"
+  },
+  {
+    "english": "These can be looked into.",
+    "reference": "వీటిని పరిశీలించవచ్చు.",
+    "scratch": "ఈ <unk> <unk> <unk> <unk>",
+    "nllb": "వీటిని పరిశీలించవచ్చు."
+  },
+  {
+    "english": "40,000 crores.",
+    "reference": "40,000 కోట్ల లోటు ఉంటుంది.",
+    "scratch": "కోట్ల కోట్ల గ్రాస్ గ్రాస్ గ్రాస్ సాధించింది.",
+    "nllb": "40,000 కోట్లు."
+  },
+  {
+    "english": "Discussions to held on various topics",
+    "reference": "వివిధ అంశాలపై చర్చలు",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "వివిధ అంశాలపై చర్చలు"
+  },
+  {
+    "english": "He is human.",
+    "reference": "\"\"\"మనిషి లో మానవ.\"",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "అతను మానవుడు."
+  },
+  {
+    "english": "He said the Bill will be introduced in Lok Sabha soon.",
+    "reference": "త్వరలో ఇందుకు సంబంధించిన బిల్లును తాను సభలో ప్రవేశపెడతానని అన్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "త్వరలో ఈ బిల్లును లోక్సభలో ప్రవేశపెట్టనున్నట్లు ఆయన చెప్పారు."
+  },
+  {
+    "english": "Our agitation is not against the Bengalis, nor against Hindus or Muslims.",
+    "reference": "ఈ ఉద్యమం హిందువులు, ముస్లింలు లేదా బెంగాలీల కోసం కాదు.",
+    "scratch": "మన <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మన ఉద్యమం బెంగాలీయులకు, హిందువులకు, ముస్లింలకు వ్యతిరేకం కాదు."
+  },
+  {
+    "english": "We mustn't forget what happened with Punjab.",
+    "reference": "పంజాబ్‌లో ఏం జరిగిందో మనం మర్చిపోకూడదు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "పంజాబ్ లో ఏం జరిగిందో మర్చిపోకూడదు."
+  },
+  {
+    "english": "Image posted on Twitter.",
+    "reference": "ిత్యామీనన్ ఫొటోను ట్విట్టర్లో పోస్ట్ చేశారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ట్విట్టర్లో పోస్ట్ చేసిన చిత్రం."
+  },
+  {
+    "english": "Elections are due in Bihar in the coming months.",
+    "reference": "వచ్చేనెలలో బీహార్ ఎన్నికలు జరగబోతున్నాయి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "బీహార్ లో రానున్న నెలల్లో ఎన్నికలు జరగనున్నాయి."
+  },
+  {
+    "english": "I have failed as an entrepreneur.",
+    "reference": "ఒక వ్యాపారవేత్తగా నేను విఫలమయ్యాను.",
+    "scratch": "నేను <unk> <unk> <unk>",
+    "nllb": "ఒక వ్యవస్థాపకుడిగా నేను విఫలమయ్యాను."
+  },
+  {
+    "english": "This is not required of men.",
+    "reference": "ఇందులో మనిషి అవసరం లేదు.",
+    "scratch": "ఇది <unk> <unk> <unk>",
+    "nllb": "ఇది పురుషుల నుండి అవసరం లేదు."
+  },
+  {
+    "english": "But you have to work hard at it.",
+    "reference": "అయితే దానికి తగ్గట్టుగా కష్టపడి పనిచేయాలి.",
+    "scratch": "అయితే <unk> <unk> <unk> <unk>",
+    "nllb": "కానీ మీరు దానిపై కష్టపడి పనిచేయాలి."
+  },
+  {
+    "english": "looking for",
+    "reference": "వెతుక్కోమంటుంది",
+    "scratch": "<unk> కోసం <unk>",
+    "nllb": "వెతుకుతూ"
+  },
+  {
+    "english": "Chandrababu Naidu with son Lokesh.",
+    "reference": "చంద్రబాబు కొడుకు లోకేశ్‌కు తన బిడ్డనిచ్చి వియ్యంకుడయ్యారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "చంద్రబాబు నాయుడు కుమారుడు లోకేష్ తో."
+  },
+  {
+    "english": "The film was very successful.",
+    "reference": "ఈ సినిమా మంచి విజయవంతం అయ్యింది.",
+    "scratch": "ఈ సినిమా చాలా <unk> <unk>",
+    "nllb": "ఈ చిత్రం చాలా విజయవంతమైంది."
+  },
+  {
+    "english": "You will get some good news from the children.",
+    "reference": "పిల్లల నుంచి కొన్ని శుభవార్తలు అందుకుంటారు.",
+    "scratch": "మంచి మంచి మంచి మంచి మంచి మంచి",
+    "nllb": "మీరు పిల్లలు నుండి కొన్ని మంచి వార్తలు పొందుతారు."
+  },
+  {
+    "english": "Drink fresh water as much as possible.",
+    "reference": "తరచుగా సాధ్యమైనంత శుభ్రమైన నీటిని త్రాగడానికి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "సాధ్యమైనంత ఎక్కువ మంచినీళ్లు తాగండి."
+  },
+  {
+    "english": "All are finished products.",
+    "reference": "అన్ని ఉత్పత్తులు ముడి ఉన్నాయి.",
+    "scratch": "అన్ని <unk> <unk> <unk> <unk>",
+    "nllb": "అన్నీ తుది ఉత్పత్తులు."
+  },
+  {
+    "english": "They had to travel 20 kilometres every day.",
+    "reference": "తానూ రోజుకి 20 కిలిమీటర్లు పరిగెడతాను.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "వారు రోజుకు 20 కిలోమీటర్లు ప్రయాణించాల్సి వచ్చింది."
+  },
+  {
+    "english": "He said he would provide 10 lakh jobs in the first Cabinet meeting if he became the CM.",
+    "reference": "అధికారంలోకి వస్తే మొదటి కేబినెట్ సమావేశంలో 10 లక్షల ప్రభుత్వ ఉద్యోగాలు ఇస్తామని ఆయన పేర్కొన్నారు.",
+    "scratch": "తొలి తొలి తొలి <unk> <unk> 10 10 లక్షల <unk> <unk> <unk>",
+    "nllb": "తాను ముఖ్యమంత్రి అయితే తొలి కేబినెట్ సమావేశంలో 10 లక్షల ఉద్యోగాలు కల్పిస్తామని చెప్పారు."
+  },
+  {
+    "english": "Earlier in the day, she had met BJP president Amit Shah at his residence.",
+    "reference": "అంతకంటే ముందు బీజేపీ జాతీయాధ్యక్షులు అమిత్‌ షాను ఆయన నివాసంలో కలిసి చర్చించారు.",
+    "scratch": "ఆమె <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అంతకుముందు ఆమె బిజెపి అధ్యక్షుడు అమిత్ షాను ఆయన నివాసంలో కలుసుకున్నారు."
+  },
+  {
+    "english": "So the matter ended there.",
+    "reference": "కనుక విషయం అక్కడ మూలనపడి ఉంది.",
+    "scratch": "కాబట్టి <unk> <unk>",
+    "nllb": "కాబట్టి ఆ విషయం అక్కడే ముగిసింది."
+  },
+  {
+    "english": "Jagan's wife Ashrita today alleged that Erra Sekhar got her husband murdered",
+    "reference": "మహబూబ్‌నగర్‌: తన భర్తను ఎమ్మెల్యే ఎర్ర శేఖరే హత్య చేయించాడని దేవరకద్రలో హత్యకు గురయిన జగన్మోహన్ భార్య ఆశ్రీత ఆరోపించారు",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "జగన్ భార్య అశ్రితా ఈ రోజు ఆరోపించింది ఎర్రా సేఖర్ తన భర్తను హత్యకు గురిచేసారని."
+  },
+  {
+    "english": "Examples of metaphors",
+    "reference": "సంచితం యొక్క ఉదాహరణలు",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "ఉపమానాల ఉదాహరణలు"
+  },
+  {
+    "english": "A tense situation prevailed in the area.",
+    "reference": "దీంతో ఒక్కసారిగా ఆ ప్రాంతంలో అలజడి వాతావరణం నెలకొంది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ ప్రాంతంలో ఉద్రిక్త పరిస్థితులు నెలకొన్నాయి."
+  },
+  {
+    "english": "It also supports 10W reverse charging.",
+    "reference": "ఇందులో 10W రివర్స్ క్విక్ ఛార్జ్ టెక్నాలజీ కూడా ఉంది.",
+    "scratch": "ఇది <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఇది 10W రివర్స్ ఛార్జింగ్కు కూడా మద్దతు ఇస్తుంది."
+  },
+  {
+    "english": "Dont get lured by the false promises being made by the BJP and the Congress.",
+    "reference": "బిజెపి,కాంగ్రెస్ పార్టీల కల్లబొల్లి కబుర్లు నమ్మి మోసపోవద్దు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "బిజెపి, కాంగ్రెస్ చేసిన అబద్ధ వాగ్దానాల వల్ల మోసపోకండి."
+  },
+  {
+    "english": "He was already married.",
+    "reference": "అప్పటికే అతనికి పెళ్లైంది.",
+    "scratch": "ఆయనకు <unk> <unk> <unk> <unk>",
+    "nllb": "అతను ఇప్పటికే వివాహం చేసుకున్నాడు."
+  },
+  {
+    "english": "We are exactly the same.",
+    "reference": "నిజమే మనం సమానం.",
+    "scratch": "మనం <unk> <unk>",
+    "nllb": "మేము ఖచ్చితంగా అదే ఉంటాయి."
+  },
+  {
+    "english": "The same strategy has been implemented in Karnataka",
+    "reference": "కర్ణాటకలో దీనినే అనుసరించాం",
+    "scratch": "<unk> దేశంలో <unk> <unk> <unk> <unk>",
+    "nllb": "అదే వ్యూహాన్ని కర్ణాటకలో అమలు చేశారు."
+  },
+  {
+    "english": "Police suspect that a property dispute could be the reason behind the murders.",
+    "reference": "ఈ హత్యలకు ఆస్తి వివాదాలే కారణమని పోలీసులు అనుమానం వ్యక్తం చేస్తున్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఆస్తి వివాదం హత్యల వెనుక కారణం కావచ్చునని పోలీసులు అనుమానిస్తున్నారు."
+  },
+  {
+    "english": "The new S-Cross will rival the likes of Hyundai Creta and Ford EcoSport",
+    "reference": "ఇది విపణిలో ఉన్న హ్యుందాయ్ క్రెటా మరియు ఫోర్డ్ ఎకోస్పోర్ట్ వేరియంట్లతో పోటీపడనుంది",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "కొత్త ఎస్-క్రాస్ హ్యుందాయ్ క్రెటా , ఫోర్డ్ ఎకోస్పోర్ట్ లతో పోటీ పడనుంది"
+  },
+  {
+    "english": "The situation is improving rapidly.",
+    "reference": "త్వరలో పరిస్థితి మెరుగుపడుతుంది.",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "పరిస్థితి వేగంగా మెరుగుపడుతోంది."
+  },
+  {
+    "english": "He's awaitin' somewhere down the line",
+    "reference": "అతనుఎక్కడాలైన్డౌన్awaitin' ఉంది",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అతను లైన్ లో ఎక్కడో వేచి ఉంది"
+  },
+  {
+    "english": "A dual love story.",
+    "reference": "ద్దరి మధ్యా లవ్‌ స్టోరీ.",
+    "scratch": "ఒక <unk> <unk> <unk> <unk>",
+    "nllb": "ఒక ద్వంద్వ ప్రేమ కథ."
+  },
+  {
+    "english": "DUBAI: India skipper Virat Kohli has retained his number one position in the latest ICC Test batsmens rankings.",
+    "reference": "దుబాయి: టీమిండియా కెప్టెన్ విరాట్ కోహ్లి టెస్టు బ్యాటింగ్ ర్యాంకింగ్స్‌లో తిరిగి అగ్ర స్థానానికి చేరుకున్నాడు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "దుబాయ్ః తాజా ఐసీసీ టెస్టు బ్యాట్స్మెన్ ర్యాంకింగ్స్లో భారత కెప్టెన్ విరాట్ కోహ్లీ తన మొదటి స్థానంలో నిలిచారు."
+  },
+  {
+    "english": "The Government had also ordered a CBI enquiry into the murder.",
+    "reference": "దీంతో ప్రభుత్వం కూడా సీబీఐ విచారణకు మొగ్గు చూపింది.",
+    "scratch": "<unk> ప్రభుత్వం ప్రభుత్వం <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ హత్యకు సంబంధించి సీబీఐ దర్యాప్తు చేయాలని కూడా ప్రభుత్వం ఆదేశించింది."
+  },
+  {
+    "english": "It will have all the amenities.",
+    "reference": "అందులో అన్ని సదుపాయాలు మీకు లభిస్తాయి.",
+    "scratch": "అన్ని <unk> <unk> <unk>",
+    "nllb": "ఇది అన్ని సౌకర్యాలు ఉంటుంది."
+  },
+  {
+    "english": "A case has been registered against the accused and investigation is on, police said.",
+    "reference": "నిందితులపై కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నామని ఎస్‌ఐ తెలిపారు.",
+    "scratch": "<unk> కేసు నమోదు నమోదు చేసి దర్యాప్తు దర్యాప్తు చేస్తున్నట్లు పోలీసులు తెలిపారు.",
+    "nllb": "నిందితుడిపై కేసు నమోదు చేసి, దర్యాప్తు కొనసాగుతోందని పోలీసులు తెలిపారు."
+  },
+  {
+    "english": "He said there was no relation between the two.",
+    "reference": "రెండింటి మధ్య ఎలాంటి సంబంధం లేదని ఆయన చెప్పా రు.",
+    "scratch": "ఈ విషయంలో మధ్య మధ్య ఎలాంటి జరగలేదని <unk>",
+    "nllb": "ఈ రెండింటి మధ్య ఎలాంటి సంబంధం లేదని ఆయన చెప్పారు."
+  },
+  {
+    "english": "The Hyundai Kona electric vehicle has received 120 customer bookings in just 10 days",
+    "reference": "విడుదలైన 10 రోజుల వ్యవధిలో 120 మంది కస్టమర్లు హ్యుందాయ్ కోనా ఎలక్ట్రిక్ కారును బుక్ చేసుకున్నారు",
+    "scratch": "10 10 10 10 10 10 10 <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "హ్యుందాయ్ కోనా ఎలక్ట్రిక్ వాహనం కేవలం 10 రోజుల్లో 120 మంది వినియోగదారులకు బుకింగ్స్ ఇచ్చింది."
+  },
+  {
+    "english": "\"\"\"We don't believe this government.\"",
+    "reference": "‘‘ మనం ఇటువంటి పాలనను మనం నమ్మలేము.",
+    "scratch": "ఈ <unk> <unk> <unk> <unk>",
+    "nllb": "\"\"\"మేము ఈ ప్రభుత్వం నమ్మకం లేదు."
+  },
+  {
+    "english": "Police have cordoned off the area",
+    "reference": "ఆ ప్రాంత పోలీస్ అధికారిపై వేటు వేసింది",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "పోలీసులు ఈ ప్రాంతాన్ని మూసివేశారు."
+  },
+  {
+    "english": "Spanish (espaol (helpinfo)) or Castilian (/kstlin/ (listen), castellano (helpinfo)) is a Romance language that originated in the Iberian Peninsula of Europe.",
+    "reference": "స్పానిష్ ( español (సహాయం·సమాచారం)) లేక కస్తీలియన్ (castellano) ఒక రోమనుల భాష.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "స్పానిష్ (espaol (helpinfo)) లేదా కాస్టిలియన్ (/kstlin/ (నన్ను వినండి), కాస్టిలినో (helpinfo)) అనేది ఐరోపాలోని ఐబీరియన్ ద్వీపకల్పంలో ఉద్భవించిన ఒక రొమాంటిక్ భాష."
+  },
+  {
+    "english": "The same thing happened in America.",
+    "reference": "ఇలాంటి ఘటన అమెరికాలో చోటుచేసుకుంది.",
+    "scratch": "ఈ <unk> <unk> <unk> <unk>",
+    "nllb": "అదే అమెరికాలో జరిగింది."
+  },
+  {
+    "english": "Afghan President Mohammad Ashraf Ghani has welcomed the announcement.",
+    "reference": "ఆఫ్ఘన్ అధ్యక్షుడు అష్రఫ్ ఘని తాలిబాన్ ప్రకటనను స్వాగతించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ ప్రకటనను అఫ్గాన్ అధ్యక్షుడు ముహమ్మద్ అష్రఫ్ ఘనీ స్వాగతించారు."
+  },
+  {
+    "english": "Rahul steps up attack on Modi Govt",
+    "reference": "మోడీ సర్కారుపై రాహుల్‌ నిప్పులు",
+    "scratch": "<unk> <unk> ప్రధాని నరేంద్ర మోడీ <unk> <unk> <unk>",
+    "nllb": "మోడీ ప్రభుత్వంపై రాహుల్ దాడి"
+  },
+  {
+    "english": "46 lakh crore.",
+    "reference": "46 లక్షల కోట్లకు తగ్గించుకున్నారు.",
+    "scratch": "<unk> లక్షల కోట్లకు లక్షల కోట్లకు <unk>",
+    "nllb": "46 లక్షల కోట్లు."
+  },
+  {
+    "english": "The next day, they found Rs.",
+    "reference": "మరుసటి రోజు వీరన్నపేటకు చెందిన ఖతీజా బేగంకు రూ.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మరుసటి రోజు, వారు రూ."
+  },
+  {
+    "english": "I cant do.",
+    "reference": "నేను చేయ‌లేను.",
+    "scratch": "నేను <unk> <unk>",
+    "nllb": "నేను చేయలేను."
+  },
+  {
+    "english": "India lost the match by 31 runs ending their unbeaten run in the tournament so far.",
+    "reference": "ఈ మ్యాచ్ లో 31 పరుగుల తేడాతో ఓటమి పాలైన భారత జట్టు ఇంకా మ్యాచ్ ఉండగానే సిరీస్ ను చేజార్చుకుంది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "భారత్ 31 పరుగుల తేడాతో ఓడిపోయింది."
+  },
+  {
+    "english": "This led to massive criticism.",
+    "reference": "దీంతో పెద్ద ఎత్తున విమర్శలు ఎదుర్కొన్నారు.",
+    "scratch": "ఈ <unk> <unk> <unk> <unk>",
+    "nllb": "ఇది భారీ విమర్శలకు దారితీసింది."
+  },
+  {
+    "english": "A number of tests were conducted.",
+    "reference": "ఎన్నో రకాల టెస్టులు చేయిస్తారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అనేక పరీక్షలు జరిగాయి."
+  },
+  {
+    "english": "That is why they are selling at higher prices.",
+    "reference": "దాంతో వాటిని అమ్మే వారు అత్యధిక రేటుకు అమ్ముతూ ఉంటారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అందుకే వారు అధిక ధరలకు అమ్ముతున్నారు."
+  },
+  {
+    "english": "According to rules, those urinating on roads are asked to cough up fine of Rs.",
+    "reference": "నిబంధనల ప్రకారం అక్కడ రహదారులపై మూత్రవిసర్జనకు రూ.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "రోడ్లపై మూత్రవిసర్జన చేసిన వారికి రూ."
+  },
+  {
+    "english": "Doctor killed in road mishap",
+    "reference": "అనంతపూర్‌లో రోడ్డు ప్రమాదంలో వైద్యుడి మృతి",
+    "scratch": "రోడ్డు <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "రోడ్డు ప్రమాదంలో డాక్టర్ మృతి"
+  },
+  {
+    "english": "The bike will be available in three colour options.",
+    "reference": "ఈ కొత్త బైక్ మూడు రంగుల్లో లభించనుంది.",
+    "scratch": "మూడు మూడు మూడు మూడు మూడు మూడు <unk> <unk> <unk>",
+    "nllb": "ఈ బైక్ మూడు రంగుల్లో లభిస్తుంది."
+  },
+  {
+    "english": "the Central Pay Commissions",
+    "reference": "కేంద్ర వేతన కమీషన్లు",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "కేంద్ర వేతన కమిషన్లు"
+  },
+  {
+    "english": "The regular shooting will begin soon.",
+    "reference": "అతి త్వరలో రెగ్యులర్ షూటింగ్ ప్రారంభించ‌నున్నారు .",
+    "scratch": "త్వరలోనే <unk> <unk> <unk> <unk>",
+    "nllb": "సాధారణ షూటింగ్ త్వరలో ప్రారంభమవుతుంది."
+  },
+  {
+    "english": "I don't know what is.",
+    "reference": "ఏం తెలియదు కాబట్టే చిక్కంతా.",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "నేను ఏమి తెలియదు."
+  },
+  {
+    "english": "We must ensure that it continues to stay that way.",
+    "reference": "అది ఆ విధంగానే ఉండేలా మ‌నం జాగ్ర‌త్త‌లు తీసుకోవాలి.",
+    "scratch": "మనం <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఇది ఇలాగే కొనసాగాలని మనం నిర్ధారించుకోవాలి."
+  },
+  {
+    "english": "This often led to quarrels between them.",
+    "reference": "ఈ క్రమంలో ఇద్దరి మధ్య తరచూ గొడవలు జరుగుతుండేవి.",
+    "scratch": "ఈ మధ్య మధ్య మధ్య మధ్య <unk> <unk> <unk>",
+    "nllb": "ఈ కారణంగా వారి మధ్య తరచుగా వివాదాలు ఏర్పడ్డాయి."
+  },
+  {
+    "english": "The other popular[clarification needed] locations are Baliguda, G. Udayagiri, Tikabali and Raikia.",
+    "reference": "జిల్లాలో బలిగుడ, జి. ఉదయగిరి, తికబలి, రైకియా మొదలైన ప్రబలమైన ప్రదేశాలు ఉన్నాయి.",
+    "scratch": "ఇతర <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఇతర ప్రాచుర్యం పొందిన ప్రదేశాలు బాలిగుడా, జి. ఉదయగిరి, టికబాలి మరియు రేకియా."
+  },
+  {
+    "english": "Very happy.",
+    "reference": "చాలా హ్యాపీగా ఉందండి.",
+    "scratch": "చాలా <unk> <unk>",
+    "nllb": "చాలా సంతోషంగా ఉంది."
+  },
+  {
+    "english": "Police had started an investigation suspecting it to be murder case.",
+    "reference": "ఆర్థిక లావాదేవీలే హత్యకు కారణమని భావిస్తున్న పోలీసులు కేసు నమోదు చేసి దర్యాప్తు ప్రారంభించారు.",
+    "scratch": "పోలీసులు పోలీసులు పోలీసులు పోలీసులు దర్యాప్తు దర్యాప్తు దర్యాప్తు చేపట్టారు.",
+    "nllb": "ఇది హత్య కేసు అని పోలీసులు అనుమానిస్తూ దర్యాప్తు ప్రారంభించారు."
+  },
+  {
+    "english": "Also the Rs.",
+    "reference": "అలాగే తాండూరులో జరిగిన సభలో సైతం అక్కడికక్కడే రూ.",
+    "scratch": "అలాగే <unk> <unk> <unk> <unk> <unk> <unk> రూ.",
+    "nllb": "అలాగే రూ."
+  },
+  {
+    "english": "Rs 10 Lakh sought in damages",
+    "reference": "రూ. 10కోట్లకు పరువు నష్టం దావా వేస్తున్నా",
+    "scratch": "10 లక్షల లక్షల లక్షల లక్షల <unk> <unk>",
+    "nllb": "నష్టపరిహారం కోసం 10 లక్షల రూపాయలు కోరారు"
+  },
+  {
+    "english": "Shine as Illuminators in the World",
+    "reference": "లోకంలో జ్యోతుల్లా కనబడండి",
+    "scratch": "ప్రపంచ <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "లోకములో వెలిగించువారుగా ప్రకాశించుడి"
+  },
+  {
+    "english": "The Egyptian government of Viceroy Isma'il took out substantial loans from European bankers and stock exchanges.",
+    "reference": "అవికాక, ఈజిప్టు ప్రభుత్వ వైస్రాయి అయిన ఇస్మాయిల్, యూరోపు బాంకర్ల నుండి, వ్యాపార వర్గాలనుండి, భారీగా అప్పులు చేశాడు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈజిప్టు ఉపరాజు ఇస్మాయిల్ ప్రభుత్వం యూరోపియన్ బ్యాంకర్లు మరియు స్టాక్ ఎక్స్ఛేంజీల నుండి గణనీయమైన రుణాలు తీసుకుంది."
+  },
+  {
+    "english": "the same question again.",
+    "reference": "మళ్ళీ అదే ప్రశ్న.",
+    "scratch": "అదే అదే <unk>",
+    "nllb": "అదే ప్రశ్న మళ్ళీ."
+  },
+  {
+    "english": "'Nailed It!",
+    "reference": "' అని హేళన చేశారు!",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "'అది గోర్లు!"
+  },
+  {
+    "english": "He later became a software engineer.",
+    "reference": "ఇతను సాఫ్ట్ వేర్ ఇంజనీరుగా పనిచేస్తూ తర్వాత నటుడిగా మారాడు.",
+    "scratch": "ఆ తర్వాత <unk> <unk> <unk> <unk>",
+    "nllb": "అతను తరువాత సాఫ్ట్వేర్ ఇంజనీర్ అయ్యాడు."
+  },
+  {
+    "english": "It continued till late night.",
+    "reference": "ఇది అర్ధరాత్రి వరకు కొనసాగింది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఇది సాయంత్రం వరకు కొనసాగింది."
+  },
+  {
+    "english": "Music, BGM and Cinematography",
+    "reference": "మ్యూజిక్, సినిమాటోగ్రఫీ",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "సంగీతం, బిజిఎం మరియు సినిమాటోగ్రఫీ"
+  },
+  {
+    "english": "Pathankot attacks: Joint Investigation Team from Pakistan arrives in Delhi",
+    "reference": "ఢిల్లీ వచ్చిన పాక్ ‘పఠాన్‌కోట్’ దర్యాప్తు బృందం",
+    "scratch": "ఢిల్లీ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "పఠాన్కోట్ దాడులుః పాకిస్థాన్ జాయింట్ ఇన్వెస్టిగేషన్ టీం ఢిల్లీ చేరుకుంది"
+  },
+  {
+    "english": "Earlier it was said that the Narendra Modi government would declared a financial emergency.",
+    "reference": "అంతకుముందు నరేంద్ర మోడీ ప్రభుత్వం ఆర్థిక అత్యవసర పరిస్థితిని ప్రకటిస్తుందంటూ సోషల్ మీడియాలో ప్రచారం జరిగింది.",
+    "scratch": "<unk> ప్రభుత్వం <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "గతంలో నరేంద్ర మోదీ ప్రభుత్వం ఆర్థిక అత్యవసర పరిస్థితిని ప్రకటించనున్నట్లు వెల్లడించారు."
+  },
+  {
+    "english": "The results will be out by evening.",
+    "reference": "ఈ రాత్రికే ఫలితాలు వెలువడుతాయి.",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "ఫలితాలు సాయంత్రం వరకు వెలువడతాయి."
+  },
+  {
+    "english": "Mohanlal also has cricketer Sachin Tendulkar on his following list.",
+    "reference": "ఈ జాబితాలో భారత దిగ్గజ క్రికెటర్ సచిన్ టెండూల్కర్‌ కూడా ఉన్నాడు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మోహన్ లాల్ క్రికెటర్ సచిన్ టెండూల్కర్ కూడా తన జాబితాలో ఉన్నారు."
+  },
+  {
+    "english": "In Kolkata petrol cost Rs.",
+    "reference": "కోలకతాలో పెట్రోల్ రూ.",
+    "scratch": "పెట్రోల్ <unk> <unk> <unk> <unk> <unk> రూ.",
+    "nllb": "కోల్కతా లో పెట్రోల్ ధర రూ."
+  },
+  {
+    "english": "New Delhi: Enforcement Directorate arrests former finance minister P Chidambaram in the INX Media case.",
+    "reference": "దిల్లీ: ఐన్‌ఎక్స్‌ మీడియా కేసులో అరెస్టయిన కేంద్ర ఆర్థిక శాఖ మాజీ మంత్రి పి. చిదంరానికి బెయిల్‌ వస్తుందా.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "న్యూఢిల్లీః ఐఎన్ఎక్స్ మీడియా కేసులో మాజీ ఆర్థిక మంత్రి పి చిదంబరమ్ను అమలు డైరెక్టరేట్ అరెస్టు చేసింది."
+  },
+  {
+    "english": "the bhai asked.",
+    "reference": "’ అడిగాడు భీమయ్య.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "బాయ్ అడిగాడు."
+  },
+  {
+    "english": "registration profiles",
+    "reference": "నమోదు ఐన ప్రొఫైళ్ళు",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "రిజిస్ట్రేషన్ ప్రొఫైల్స్"
+  },
+  {
+    "english": "Today, the divine name is widely known and accepted in many African languages, such as Zulu (uJehova), Yoruba (Jehofah), Xhosa (uYehova) and Swahili (Yehova).",
+    "reference": "నేడు, జూలూ (ఉజెహోవా), యొరూబ (జెహోఫా), గ్జోసా (ఉయెహోవా), స్వాహిలి (యెహోవా) వంటి అనేక ఆఫ్రికా భాషల్లో చాలామందికి దైవిక నామం పరిచయమై వారిచేత అంగీకరించబడింది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "నేడు, సులు (యెహోవా), యోరుబా (యెహోవా), క్హోసా (యెహోవా) మరియు స్వాహిలీ (యెహోవా) వంటి అనేక ఆఫ్రికన్ భాషల్లో దేవుని పేరు విస్తృతంగా తెలిసినది మరియు అంగీకరించబడింది."
+  },
+  {
+    "english": "You want to try that?",
+    "reference": "\"\"\", లేదా\"\" మీరు దీనిని ప్రయత్నించాలనుకుంటున్నారా?\"",
+    "scratch": "మీరు <unk> <unk> <unk>",
+    "nllb": "మీరు ఆ ప్రయత్నించండి అనుకుంటున్నారా?"
+  },
+  {
+    "english": "Telangana Chief Minister K Chandrashekhara Raos family members participated in the Raksha bandhan celebrations.",
+    "reference": "తెలంగాణ ముఖ్యమంత్రి కేసీఆర్ కుటుంబసభ్యులు సైతం వినాయక చవితి ఉత్సవాల్లో పాల్గొన్నారు.",
+    "scratch": "తెలంగాణ తెలంగాణ తెలంగాణ తెలంగాణ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "తెలంగాణ ముఖ్యమంత్రి కే.చంద్రశేఖరా రావోస్ కుటుంబ సభ్యులు రక్షణ బంద్ వేడుకల్లో పాల్గొన్నారు."
+  },
+  {
+    "english": "New Delhi: The Minister of State in the Ministry of",
+    "reference": "న్యూఢిల్లీ : కేంద్ర మంత్రి ఎం.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "న్యూ ఢిల్లీః మంత్రిత్వ శాఖ లో రాష్ట్ర మంత్రి"
+  },
+  {
+    "english": "Problem solved right?",
+    "reference": "ప్రాబ్లమ్‌ సాల్వ్‌ అయినట్లే కదా?",
+    "scratch": "సమస్య సమస్య <unk>",
+    "nllb": "సమస్య పరిష్కరించబడింది కుడి?"
+  },
+  {
+    "english": "Power Star Pawan Kalyan is a busy man.",
+    "reference": "పవర్‌స్టార్‌ పవన్‌ కల్యాణ్‌ ఇప్పుడు ఫుల్ బిజీగా ఉన్నారు.",
+    "scratch": "పవన్ కళ్యాణ్ కళ్యాణ్ పవర్ స్టార్ పవన్ కళ్యాణ్ కళ్యాణ్ పవర్ స్టార్ పవన్ కళ్యాణ్ పవర్ స్టార్ పవన్ కళ్యాణ్",
+    "nllb": "పవర్ స్టార్ పవన్ కాలియన్ చాలా బిజీగా ఉన్నాడు."
+  },
+  {
+    "english": "A large number of police forces were deployed on the spot.",
+    "reference": "ఎక్కడిక్కడ భారీ సంఖ్యలో పోలీసులు గట్టి భద్రతను ఏర్పాటు చేసారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "పెద్ద సంఖ్యలో పోలీసు దళాలను అక్కడికక్కడే మోహరించారు."
+  },
+  {
+    "english": "So, consume different kinds of vegetables and fruits.",
+    "reference": "కాబట్టి రకరకాల కూరగాయలు, పండ్లు తినాలి.",
+    "scratch": "కాబట్టి, <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "కాబట్టి, వివిధ రకాల కూరగాయలు, పండ్లు తినండి."
+  },
+  {
+    "english": "SS Thaman is the music director of the movie.",
+    "reference": "ఇదిలా ఉంటే, ఈ సినిమాకు ఎస్. ఎస్. తమన్‌ను సంగీత దర్శకుడిగా తీసుకున్నారట.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఎస్ఎస్ థామన్ ఈ సినిమాకు సంగీత దర్శకుడు."
+  },
+  {
+    "english": "Ensuring timely completion of projects",
+    "reference": "సకాలంలో ప్రాజెక్టుల పూర్తికి ప్రణాళిక",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ప్రాజెక్టుల సకాలంలో పూర్తయ్యేలా చేయడం"
+  },
+  {
+    "english": "The South Mumbai constituency goes to the polls on April 29",
+    "reference": "కాగా దక్షిణ ముంబాయిలో ఏప్రిల్ 29 న జరగనున్న పోలింగ్ జరగనుంది",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "దక్షిణ ముంబై నియోజకవర్గం ఏప్రిల్ 29న ఎన్నికలకు వెళుతుంది"
+  },
+  {
+    "english": "He travels either by motorcycle or car.",
+    "reference": "అయన ఎటైన వెళ్లాలన్నా రైలులోనో లేదంటే ఆటోలోనో వెళ్తుంటారట.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అతను మోటార్ సైకిల్ లేదా కారు ద్వారా ప్రయాణిస్తాడు."
+  },
+  {
+    "english": "Currently, script work is going on",
+    "reference": "ప్రస్తుతం కొల్‌కటలో పనిచేస్తున్నా",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ప్రస్తుతం, స్క్రిప్ట్ పని జరుగుతోంది"
+  },
+  {
+    "english": "It could not do so .",
+    "reference": "అలాజరగడానికి వీల్లేదన్నారు .",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "అది అలా చేయలేకపోయింది ."
+  },
+  {
+    "english": "A number of MPs and MLAs participated in the meeting.",
+    "reference": "ఈ కార్యక్రమంలో పలువురు ఎమ్మెల్యేలు, శాసన సభ సిబ్బంది పాల్గొన్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> పాల్గొన్నారు.",
+    "nllb": "ఈ సమావేశంలో పలువురు ఎంపీలు, ఎమ్మెల్యేలు పాల్గొన్నారు."
+  },
+  {
+    "english": "Man kills wife over suspicion",
+    "reference": "అనుమానంతో భార్యను సజీవ దహనం చేసిన భర్త",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఒక వ్యక్తి తన భార్యను హత్య చేస్తాడు."
+  },
+  {
+    "english": "She was taken to a hospital and police were informed.",
+    "reference": "ఈ విషయం పోలీసులకు తెలియడంతో ఆమెను ఆసుపత్రికి చికిత్స కోసం తరలించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఆమెను ఆసుపత్రికి తీసుకెళ్లి పోలీసులకు సమాచారం ఇచ్చారు."
+  },
+  {
+    "english": "It is the joint responsibility of both the state and Central governments.",
+    "reference": "వీటిని రాష్ట్ర, కేంద్ర ప్రభుత్వాలు ఉమ్మడి బాధ్యతగా తీసుకొనేవి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఇది కేంద్ర, రాష్ట్ర ప్రభుత్వాల సంయుక్త బాధ్యత."
+  },
+  {
+    "english": "Lessons were learnt.",
+    "reference": "పాఠాలు నేర్చారు.",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "పాఠాలు నేర్చుకున్నారు."
+  },
+  {
+    "english": "What is dowry?",
+    "reference": "వరకట్న ఏమిటి?",
+    "scratch": "<unk> <unk>",
+    "nllb": "దహనం అంటే ఏమిటి?"
+  },
+  {
+    "english": "Mr. Awadh Tripathi",
+    "reference": "మిస్టర్ అవధ్ త్రిపాఠి",
+    "scratch": "మిస్టర్ <unk> <unk> <unk>",
+    "nllb": "శ్రీ అవధ్ త్రిపాఠి"
+  },
+  {
+    "english": "\"Individual contributors are known as \"\"Wikipedians\"\".\"",
+    "reference": "\"వ్యక్తిగత సహాయకులను \"\"వికీపీడియన్లు\"\" అంటారు.\"",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "\"వ్యక్తిగత సహకర్తలను \"వికీపీడియా\" అని పిలుస్తారు."
+  },
+  {
+    "english": "They were, however, stopped at the border by Delhi police.",
+    "reference": "అయితే, వారిని ఢిల్లీ సరిహద్దుల్లో పోలీసులు అడ్డుకున్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అయితే, వారిని ఢిల్లీ పోలీసులు సరిహద్దు వద్ద ఆపారు."
+  },
+  {
+    "english": "He was also a journalist and author.",
+    "reference": "రచయితగా, సాహితీవేత్తగానే కాకుండా పాత్రికేయుడిగా కూడా ఆయన సేవలందించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అతను ఒక పాత్రికేయుడు మరియు రచయిత కూడా."
+  },
+  {
+    "english": "Neck and back injuries",
+    "reference": "ఛాతీ మరియు పక్కటెముక పగులు గాయాల",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మెడ మరియు వెన్నెముక గాయాలు"
+  },
+  {
+    "english": "For a while the world was flat.",
+    "reference": "కొంతకాలంలోనే ప్రపంచం మొత్తం చుట్టేసింది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "కొంతకాలం ప్రపంచం ఫ్లాట్ అయింది."
+  },
+  {
+    "english": "The case is being heard by a three-judge bench headed by Chief Justice of India (CJI) Sharad Arvind Bobde.",
+    "reference": "భారత ప్రధాన న్యాయమూర్తి జస్టిస్ శరద్ అరవింద్ బాబ్డే నేతృత్వంలోని ధర్మాసనం ఈ పిటిషన్‌పై విచారణ జరిపింది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ కేసుపై భారత ప్రధాన న్యాయమూర్తి (సీజేఐ) శరద్ అర్వింద్ బోబ్డే నేతృత్వంలోని ముగ్గురు న్యాయమూర్తుల బంచ్ విచారణ చేస్తోంది."
+  },
+  {
+    "english": "The Current EgyptAir fleet includes 80 aeroplanes.",
+    "reference": "\"ప్రస్తుత \"\" ఈజిప్టు ఎయిరు \"\" విమానసమూహంలో 80 విమానాలు ఉన్నాయి.\"",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ప్రస్తుత ఈజిప్ట్ ఎయిర్ విమానాల్లో 80 విమానాలు ఉన్నాయి."
+  },
+  {
+    "english": "14-day quarantine",
+    "reference": "14 రోజుల నిర్భందంలోకి ప్రియదర్శి",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "14 రోజుల క్వారంటైన్"
+  },
+  {
+    "english": "Chief Minister of Uttar Pradesh Yogi Adityanath expressed grief over the incident and conveyed his condolences to the deceased's families.",
+    "reference": "ఈ ప్రమాదంపై ఉత్తరప్రదేశ్‌ ముఖ్యమంత్రి యోగి ఆదిథ్యనాథ్‌ మృతుల కుటుంబాలకు సంతాపం వ్యక్తం చేశారు.",
+    "scratch": "ఈ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ ఘటనపై ఉత్తర ప్రదేశ్ ముఖ్యమంత్రి యోగి ఆదిత్యనాథ్ సంతాపం వ్యక్తం చేసి, మృతుల కుటుంబాలకు సంతాపాన్ని తెలిపారు."
+  },
+  {
+    "english": "Kiara Advani is the female lead of the film which is produced by DVV Danayya.",
+    "reference": "కాగా ఈ సినిమాలో హీరోయిన్‌గా బాలీవుడ్ న‌టీ కైరా అద్వాణీ న‌టిస్తుండ‌గా డీవీవీ ఎంటర్‌టైన్‌మెంట్స్‌ పతాకంపై దానయ్య ఈ సినిమాను నిర్మిస్తున్నారు.",
+    "scratch": "<unk> దర్శకత్వంలో దర్శకత్వంలో దర్శకత్వంలో <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ చిత్రంలో కియారా అడ్వానీ ప్రధాన పాత్ర పోషిస్తున్నారు."
+  },
+  {
+    "english": "Badal Mahal, famously known as the 'palace of the clouds', is situated inside the Ranthambore Fort",
+    "reference": "బాదల్ మహల్ ను మేఘాల భవనం అని అంటారు",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "'ప్యాలెస్ ఆఫ్ ది క్లౌడ్స్' గా ప్రసిద్ధి చెందిన బడల్ మహల్ రాంతంబోర్ కోట లోపల ఉంది"
+  },
+  {
+    "english": "Police recovered weapons from spot.",
+    "reference": "ఘటనా స్థలం నుండి ఆయుధాలను స్వాధీనం చేసుకున్నామని పోలీసులు వెల్లడించారు.",
+    "scratch": "<unk> నుంచి నుంచి పోలీసులు నుంచి <unk> పోలీసులు స్వాధీనం చేసుకున్నారు.",
+    "nllb": "పోలీసులు అక్కడి నుంచి ఆయుధాలను స్వాధీనం చేసుకున్నారు."
+  },
+  {
+    "english": "The corporation has made a provision of Rs.",
+    "reference": "మున్నూరు కాపులకు కార్పొరేషన్‌ ఏర్పాటు చేసి, రూ.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "కార్పొరేషన్ రూ."
+  },
+  {
+    "english": "What does the latter include?",
+    "reference": "జారత్వం అంటే ఏమిటి?",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "రెండవది ఏమిటి?"
+  },
+  {
+    "english": "Jayarajan had been remanded in connection with the murder case.",
+    "reference": "జయరాం హత్య కేసులో కావాలనే ఇరికించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "జయరాజన్ ను హత్య కేసులో రిమాండ్ లో ఉంచారు."
+  },
+  {
+    "english": "Such comments are very helpful. Learn to answer in your own words.",
+    "reference": "మీ సొంత మాటల్లో జవాబివ్వడం నేర్చుకోండి.",
+    "scratch": "ఇలాంటి <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మీ స్వంత మాటల్లో జవాబు ఇవ్వడం నేర్చుకోండి."
+  },
+  {
+    "english": "Both the phones will be powered by Snapdragon 855 processor.",
+    "reference": "ఈ రెండు ఫోన్లలోనూ స్నాప్ డ్రాగన్ 855 ప్రాసెసర్ ఉండనుంది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ రెండు ఫోన్లు స్నాప్డ్రాగన్ 855 ప్రాసెసర్తో పనిచేస్తాయి."
+  },
+  {
+    "english": "I cancelled.",
+    "reference": "క్యాన్సిల్‌ చేసుకోమన్నాను.",
+    "scratch": "నేను <unk>",
+    "nllb": "నేను రద్దు."
+  },
+  {
+    "english": "An article from 2009 notes that the availability of wireless access allows people to choose from a wide range of places to work in.",
+    "reference": "వైర్‌లెస్ యాక్సెస్ లభ్యత ప్రజలను పని చేయడానికి విస్తృత ప్రదేశాల నుండి ఎంచుకునే వీలు కల్పిస్తుందని 2009 లో వచ్చిన ఒక కథనం పేర్కొంది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "వైర్లెస్ యాక్సెస్ లభ్యత వల్ల ప్రజలు పని చేయడానికి విస్తృత శ్రేణి ప్రదేశాల నుండి ఎంచుకోగలుగుతారని 2009 నుండి వచ్చిన ఒక వ్యాసం పేర్కొంది."
+  },
+  {
+    "english": "Many people equate humility with humiliation.",
+    "reference": "చాలామంది వినయాన్ని అవమానంతో సమానంగా చూస్తారు.",
+    "scratch": "ఎన్నో <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "చాలా మంది ప్రజలు వినయంతో అవమానంతో సమానంగా భావిస్తారు."
+  },
+  {
+    "english": "Police have not registered any case.",
+    "reference": "దీనిపై పోలీసులు ఏ విధమైన కేసును కూడా నమోదు చేయలేదు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> పోలీసులు పోలీసులు పోలీసులు",
+    "nllb": "పోలీసులు ఎలాంటి కేసు నమోదు చేయలేదు."
+  },
+  {
+    "english": "10 lakh has been sanctioned.",
+    "reference": "కోటీ 10 లక్షల రూపాయలను మంజూరు చేసింది.",
+    "scratch": "10 లక్షల లక్షల లక్షల <unk> <unk>",
+    "nllb": "10 లక్షల నిషేధాలు జారీ చేశారు."
+  },
+  {
+    "english": "Lots of people are starving.",
+    "reference": "చాలా మంది ఆకలిదప్పులతో అలమటిస్తున్నారు.",
+    "scratch": "ప్రజలు <unk> <unk> <unk>",
+    "nllb": "చాలా మంది ఆకలితో మరణిస్తున్నారు."
+  },
+  {
+    "english": "Airtel also offers the Rs.",
+    "reference": "ఎయిర్‌టెల్‌ ఈ ఆఫర్ తో పాటు రూ.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఎయిర్టెల్ కూడా రూ."
+  },
+  {
+    "english": "\"He also worked extensively towards empowering the poor and downtrodden,\"\" Prime Minister Modi tweeted.\"",
+    "reference": "పేదలు అణగారిన వర్గాలకు సాధికారత కల్పించేందుకు ఆయన గొప్ప కృషి చేశారు’అని ప్రధాని మోదీ ట్వీట్‌ చేశారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> ప్రధాని నరేంద్ర మోదీ <unk>",
+    "nllb": "\"అతను పేదలు, అణచివేయబడినవారికి సాధికారత కల్పించే దిశగా కూడా విస్తృతంగా పనిచేశాడు\", అని ప్రధాని మోదీ ట్వీట్ చేశారు."
+  },
+  {
+    "english": "The day of ones baptism is a time for genuine rejoicing. It is also a time for sober reflection.",
+    "reference": "బాప్తిస్మం తీసుకున్న రోజున ఎవరికైనా సంతోషంగా ఉంటుంది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "బాప్తిస్మ దినం నిజమైన ఆనందం మరియు ఆలోచనాత్మకమైన సమయం."
+  },
+  {
+    "english": "Everyone knows that.",
+    "reference": "అన్నది అందరికీ తెలుసు.",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "ప్రతి ఒక్కరూ ఆ తెలుసు."
+  },
+  {
+    "english": "all the animals has roungd has gien ,they wont reachtha tline",
+    "reference": "ఆ సమయంలో ఆయన గోవులకు ఒకావలయం ఏర్పరిచి దానిని దాట వద్దని ఆజ్ఞాపించడంతో అవి ఆవలయం దాటకుండా మేతమేస్తూ వచ్చాయి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అన్ని జంతువులు రొంగిపోయింది ఉంది, వారు తిరిగి వస్తాయి లేదు."
+  },
+  {
+    "english": "Vijayashanti, Prakash Raj, Sangeetha, Rajendra Prasad, Rao Ramesh are seen in key roles.",
+    "reference": "ప్రకాశ్‌రాజ్‌, సంపత్‌రాజ్‌, పోసాని, రావు రమేశ్‌ కీలక పాత్రలు పోషిస్తున్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "విజయ్శాంతి, ప్రకాష్ రాజ్, సంజీతా, రాజేంద్ర ప్రసాద్, రావు రమేష్ కీలక పాత్రల్లో నటించారు."
+  },
+  {
+    "english": "The BJP MLA's remarks were criticised by many on social media.",
+    "reference": "బిజెపి ఎమ్మెల్యే వ్యాఖ్యలను సోషల్ మీడియాలో చాలామంది నెటిజన్లు విమర్శించారు.",
+    "scratch": "ఈ విషయాన్ని <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "సోషల్ మీడియాలో బిజెపి ఎమ్మెల్యే చేసిన వ్యాఖ్యలను పలువురు విమర్శించారు."
+  },
+  {
+    "english": "There are also chances of getting dandruff.",
+    "reference": "తాన్ మచ్చలు ఏర్పడతాయి వచ్చే అవకాశం కూడా ఉంది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "చికాకు వచ్చే అవకాశాలు కూడా ఉన్నాయి."
+  },
+  {
+    "english": "economically developed.",
+    "reference": "ఆర్థికంగా అభివృద్ధి సాధిస్తారు.",
+    "scratch": "<unk> <unk>",
+    "nllb": "ఆర్థికంగా అభివృద్ధి చెందింది."
+  },
+  {
+    "english": "Today, the budget that is being introduced is a budget for the welfare of the people, not a ballot box budget.",
+    "reference": "ఈ రోజు మా ప్రభుత్వం బ్యాలెట్ బాక్స్ బడ్జెట్గా కాకుండా బతుకును నిలబెట్టే బడ్జెట్ను ప్రవేశ పెడుతున్నది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ రోజు ప్రవేశపెట్టబడుతున్న బడ్జెట్ ప్రజల సంక్షేమానికి ఉద్దేశించిన బడ్జెట్, ఓటింగ్ బాక్స్ బడ్జెట్ కాదు."
+  },
+  {
+    "english": "New medical colleges have been opened...",
+    "reference": "కొత్త మెడికల్‌ కాలేజీల ఏర్పాటుకు ఊతమందేనా",
+    "scratch": "కొత్త కొత్త <unk> <unk> <unk>",
+    "nllb": "కొత్త వైద్య కళాశాలలు ప్రారంభమయ్యాయి."
+  },
+  {
+    "english": "He was taken to hospital by family members.",
+    "reference": "దీన్ని గుర్తించిన కుటుంబ సభ్యులు ఆయన్ను ఆసుపత్రికి తరలించారు.",
+    "scratch": "కుటుంబ కుటుంబ సభ్యులు <unk> <unk>",
+    "nllb": "ఆయనను కుటుంబ సభ్యులు ఆసుపత్రికి తీసుకెళ్లారు."
+  },
+  {
+    "english": "TDP MLA from Tirupati Sugunamma is facing fierce opposition from the ruling party ranks",
+    "reference": "తిరుపతి టీడీపీ ఎమ్మెల్యే సుగుణమ్మకు చేదు అనుభవం",
+    "scratch": "<unk> పార్టీ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "తిరుపతి సుగునమ్మ నుంచి టిడిపి ఎమ్మెల్యే అధికార పార్టీల నుంచి తీవ్ర వ్యతిరేకతను ఎదుర్కొంటున్నారు."
+  },
+  {
+    "english": "namespace prefix in @namespace rule",
+    "reference": "@namespace నియమంలో నేమ్ స్పేస్ ప్రత్యయము",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "@namespace నియమం లో పేరు స్థలము యొక్క పూర్వపదము"
+  },
+  {
+    "english": "You gotta cut it.",
+    "reference": "మీరు దానిని కత్తిరించాలి.",
+    "scratch": "మీరు <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మీరు దానిని కట్ చేయాలి."
+  },
+  {
+    "english": "West Bengal Chief Minister Mamata Banerjee accused the BJP government at the Centre of politicising everything.",
+    "reference": "రాష్ట్ర పరిణామాలపై కేంద్రంలోని బిజెపి ప్రభుత్వం వాస్తవాలను వక్రీకరిస్తోందని పశ్చిమ బెంగాల్‌ ముఖ్యమంత్రి మమతా బెనర్జీ విమర్శించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "పశ్చిమ బెంగాల్ ముఖ్యమంత్రి మమతా బెనర్జీ, కేంద్రంలోని బిజెపి ప్రభుత్వం ప్రతిదీ రాజకీయం చేస్తోందని ఆరోపించారు."
+  },
+  {
+    "english": "Several vehicles were damaged and many injured in the incident.",
+    "reference": "ఈ ప్రమాదంలో పలు బోట్లు ధ్వంసమవగా కొందరికి గాయాలయ్యాయి.",
+    "scratch": "ఈ ఘటనలో పలు <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ ఘటనలో పలు వాహనాలు దెబ్బతిన్నాయి, పలువురు గాయపడ్డారు."
+  },
+  {
+    "english": "415 crore.",
+    "reference": "415 కోట్ల టర్నోవర్‌ నమోదు చేసింది.",
+    "scratch": "<unk> కోట్లు <unk> <unk>",
+    "nllb": "415 కోట్లు."
+  },
+  {
+    "english": "He was criticised on the social media.",
+    "reference": "సోషల్‌మీడియాలో ఆయన్ను విమర్శిస్తూ కామెంట్లు చేశారు.",
+    "scratch": "సామాజిక మీడియాలో సామాజిక మాధ్యమాల్లో సోషల్ మీడియాలో మీడియాలో మీడియాలో వైరల్",
+    "nllb": "ఆయనను సోషల్ మీడియాలో విమర్శించారు."
+  },
+  {
+    "english": "Alastair Cook all set to break Sachin Tendulkar's record in Test Cricket",
+    "reference": "సచిన్ 'పదివేల' రికార్డ్ బద్దలు కొట్టిన అలిస్టర్ కుక్",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "టెస్టు క్రికెట్లో సచిన్ టెండూల్కర్ రికార్డును బద్దలు కొట్టడానికి అలస్టైర్ కుక్ సిద్ధమవుతున్నారు."
+  },
+  {
+    "english": "battle is between the TRS and Congress.",
+    "reference": "కాంగ్రెస్, టీఆర్‌ఎస్‌ మధ్య కోల్డ్‌వార్‌ సాగుతోంది.",
+    "scratch": "<unk> మధ్య <unk> మధ్య <unk> మధ్య <unk> మధ్య <unk>",
+    "nllb": "యుద్ధం TRS మరియు కాంగ్రెస్ మధ్య ఉంది."
+  },
+  {
+    "english": "A decision in this regard has not been taken by the Congress leadership yet.",
+    "reference": "కాంగ్రెస్ అధినాయకత్వం ఈ మూడు రాజీనామాలపై ఇంతవరకు ఎలాంటి నిర్ణయం తీసుకోలేదు.",
+    "scratch": "ఈ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ విషయంలో కాంగ్రెస్ నాయకత్వం ఇంకా ఎలాంటి నిర్ణయం తీసుకోలేదు."
+  },
+  {
+    "english": "Andhra Pradesh State government tourism and development center is working on improving the tourism in Andhra pradesh",
+    "reference": "ఆంధ్ర ప్రదేశ్ రాష్ట్ర ప్రభుత్వ పర్యాటక అభివృద్ధి సంస్థ రాష్ట్ర పర్యాటక రంగ అభివృద్ధికి కృషి చేస్తోంది.పర్యాటక ప్రదేశాలలో విశాఖపట్నం ఒకటి చెప్పుకొదగినది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఆంధ్రప్రదేశ్ రాష్ట్ర ప్రభుత్వ పర్యాటక, అభివృద్ధి కేంద్రం ఆంధ్రప్రదేశ్ లో పర్యాటకాన్ని మెరుగుపరచడానికి కృషి చేస్తోంది"
+  },
+  {
+    "english": "What is keratin?",
+    "reference": "క్రియాటినిన్ ఏమిటి?",
+    "scratch": "<unk> <unk>",
+    "nllb": "కెరాటిన్ అంటే ఏమిటి?"
+  },
+  {
+    "english": "Vietnamese (V_PS)",
+    "reference": "వియత్నామిస్ (V_PS)",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "వియత్నామీస్ (V_PS)"
+  },
+  {
+    "english": "Modi and Amit Shah",
+    "reference": "జగన్, అమిత్ షా మోదీ",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మోదీ, అమిత్ షా"
+  },
+  {
+    "english": "There will be a 44-megapixel camera on the front.",
+    "reference": "ముందువైపు ఏకంగా 44 మెగా పిక్సెల్ సెల్ఫీ కెమెరాను అందించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ముందు 44 మెగాపిక్సెల్ కెమెరా ఉంటుంది."
+  },
+  {
+    "english": "Registered Sale",
+    "reference": "రిజిస్టర్డ్ సేల్",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "రిజిస్టర్డ్ అమ్మకాలు"
+  },
+  {
+    "english": "Vegetable and chicken stew with polenta",
+    "reference": "పుట్టగొడుగులను మరియు మాంసంతో పిటా రొట్టె",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "పోలెంటాతో కూడిన కూరగాయలు, కోడి గోధుమ"
+  },
+  {
+    "english": "Rahul Gandhi has made it clear that he does not want to continue as Congress president.",
+    "reference": "ఇప్పటికే రాహుల్ గాంధీ కాంగ్రెస్ అధ్యక్షుడిగా కొనసాగలేనని తేల్చి చెప్పారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "కాంగ్రెస్ అధ్యక్షుడిగా కొనసాగకూడదని రాహుల్ గాంధీ స్పష్టం చేశారు."
+  },
+  {
+    "english": "Whats to celebrate?",
+    "reference": "ఏమి జరుపుకోవాలి?",
+    "scratch": "<unk> <unk>",
+    "nllb": "ఏమి జరుపుకుంటారు?"
+  },
+  {
+    "english": "But there is another aspect that is important.",
+    "reference": "కానీ మరొక ముఖ్యమైన అంశం ఉంది.",
+    "scratch": "కానీ ఇక్కడ <unk> <unk> <unk> <unk>",
+    "nllb": "కానీ మరో ముఖ్యమైన అంశం కూడా ఉంది."
+  },
+  {
+    "english": "This film actually doesn't.",
+    "reference": "అసలు దీన్ని సినిమానే కాదంటున్నాడు.",
+    "scratch": "ఈ సినిమా <unk> <unk>",
+    "nllb": "ఈ చిత్రం నిజానికి లేదు."
+  },
+  {
+    "english": "A total of 23 passengers were travelling on the bus when the incident happened.",
+    "reference": "ఈ ఘటనలో బస్సులో ప్రయాణిస్తున్న వారిలో 23 మంది ప్రయాణికులు తీవ్రంగా గాయపడ్డారు.",
+    "scratch": "ఈ ఘటన <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ ఘటన జరిగినప్పుడు బస్సులో మొత్తం 23 మంది ప్రయాణికులు ప్రయాణిస్తున్నారు."
+  },
+  {
+    "english": "A love story",
+    "reference": "ఒక ప్రేమకథ",
+    "scratch": "ఒక <unk> <unk> <unk>",
+    "nllb": "ఒక ప్రేమ కథ"
+  },
+  {
+    "english": "The audio clip has gone viral on the social media.",
+    "reference": "సోషల్​ మీడియాలో ఆడియో క్లిప్​ వైరల్​",
+    "scratch": "సామాజిక మీడియాలో సామాజిక మాధ్యమాల్లో సామాజిక మాధ్యమాల్లో సామాజిక మాధ్యమాల్లో",
+    "nllb": "ఆడియో క్లిప్ సోషల్ మీడియాలో వైరల్ అయింది."
+  },
+  {
+    "english": "Couldn't load room list",
+    "reference": "గది జాబితాను లోడు చేయలేకపోయింది",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "గది జాబితా లోడ్ కాలేదు"
+  },
+  {
+    "english": "Painful parting",
+    "reference": "బాధాకరమైన విభజన",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "బాధాకరమైన విడాకులు"
+  },
+  {
+    "english": "A young girl was allegedly moletsed and beaten up by a man in Mumbai.",
+    "reference": "ముంబయికి చెందిన ఓ యువతికి బలవంతంగా మద్యం ఇచ్చి ఓ కామాంధుడు అత్యాచారం చేశాడు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ముంబైలో ఓ యువతిని ఓ వ్యక్తి మోల్టేజ్ చేసి కొట్టారని ఆరోపించారు."
+  },
+  {
+    "english": "Voting for the first phase of Parliamentary elections is underway in Telangana.",
+    "reference": "తెలంగాణ ఎన్నికల నేప‌ధ్యంలో పోలింగ్ న‌మోదు ప్రారంభం అయ్యింది.",
+    "scratch": "తొలి తొలి తొలి దశ <unk> <unk> <unk>",
+    "nllb": "తెలంగాణలో తొలి దశ పార్లమెంటరీ ఎన్నికల పోలింగ్ జరుగుతోంది."
+  },
+  {
+    "english": "He said these companies will create three lakh direct and around nine lakh indirect jobs.",
+    "reference": "ఈ కంపెనీలు మూడు లక్షల ప్రత్యక్ష, తొమ్మిది లక్షల పరోక్ష ఉద్యోగాలను సృష్టిస్తాయని ఆయన అన్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ కంపెనీలు 3 లక్షల ప్రత్యక్ష, 9 లక్షల పరోక్ష ఉద్యోగాలను సృష్టిస్తాయని ఆయన అన్నారు."
+  },
+  {
+    "english": "India opposes the move.",
+    "reference": "ఈ చర్యను భారత్‌ వ్యతిరేకిస్తోంది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ చర్యకు భారత్ వ్యతిరేకం."
+  },
+  {
+    "english": "This was announced in the budget by Finance Minister Nirmala Sitharaman .",
+    "reference": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్‌ కూడా ఈ విషయాన్ని పార్లమెంట్‌లో సూచనప్రాయంగా వెల్లడించారు.",
+    "scratch": "ఈ కేంద్ర ఆర్థిక నిర్మలా నిర్మలా సీతారామన్‌ <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ మేరకు ఆర్థిక మంత్రి నిర్మలా సీతారామన్ బడ్జెట్లో ప్రకటించారు ."
+  },
+  {
+    "english": "TDP MP JC Diwakar Reddy's associate Kogatam Vijaya Bhaskar Reddy also joined the party.",
+    "reference": "ఆ ఎన్నికల సమయంలోనే జేసీ దివాకర్ రెడ్డి, ఆయన సోదరుడు జేసీ ప్రభాకర్ రెడ్డిలు కాంగ్రెస్ పార్టీని వీడి టీడీపీలో చేరారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "టిడిపి ఎంపీ జేసీ దీవాకర్ రెడ్డి సహచరుడు కోగతం విజయా భాస్కర్ రెడ్డి కూడా పార్టీలో చేరారు."
+  },
+  {
+    "english": "The Prime Minister asked the students to have purpose in life",
+    "reference": "విద్యార్ధులు జీవితానికి సార్ధ‌క‌త ఉండేలా చూసుకోవాల‌ని ప్రధాన మంత్రి చెప్పారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "విద్యార్థులకు జీవితానికి ఉద్దేశ్యం కలవాలని ప్రధాన మంత్రి కోరారు."
+  },
+  {
+    "english": "42 lakh crore.",
+    "reference": "42 వేల కోట్ల అవసరమని అన్నారు.",
+    "scratch": "02 లక్షల కోట్లకు <unk>",
+    "nllb": "42 లక్షల కోట్లు."
+  },
+  {
+    "english": "Fiery Orange",
+    "reference": "ఫిరి ఆరెంజ్",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అగ్ని ఆరెంజ్"
+  },
+  {
+    "english": "The actor will be playing the Kargil war hero Captain Vikram Batra.",
+    "reference": "పరమ వీరచక్ర బిరుదు గ్రహీత, కార్గిల్‌ వార్‌లో చురుగ్గా పాల్గొన్న ఆర్మీ ఆఫీసర్, కెప్టెన్‌ విక్రమ్‌ బత్రా పాత్రలో నటించనున్నారు సిద్ధార్థ్‌.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ నటుడు కార్గిల్ యుద్ధ హీరో కెప్టెన్ విక్రమ్ బాత్రా పాత్రను పోషించనున్నారు."
+  },
+  {
+    "english": "What is this, boy?",
+    "reference": "‘ఏం పిల్లడో ఎల్దమొస్తవా?",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "ఇది ఏమిటి, బాలుడు?"
+  },
+  {
+    "english": "Then, he transferred Rs.",
+    "reference": "అనంతరం అతనికి రూ.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఆ తర్వాత రూ."
+  },
+  {
+    "english": "The bodies were shifted to Rajarajeshwari hospital for autopsy.",
+    "reference": "పోస్టుమార్టం కోసం రాజేశ్వరి మృతదేహాన్ని ఆస్పత్రికి తరలించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మృతదేహాలను శవపేటిక కోసం రాజరాజేశ్వరి ఆసుపత్రికి తరలించారు."
+  },
+  {
+    "english": "The NTR biopic is being helmed by director Teja.",
+    "reference": "ఎన్టీఆర్‌ జీవిత చరిత్ర ఆధారంగా తెరకెక్కబోతున్న చిత్రానికి తేజ దర్శకత్వం వహిస్తున్నాడు.",
+    "scratch": "దర్శకుడు దర్శకత్వంలో దర్శకత్వంలో తెరకెక్కుతున్న ఈ సినిమా దర్శకత్వంలో <unk> <unk> <unk>",
+    "nllb": "ఎన్టీఆర్ బయోపిక్ దర్శకుడు తేజా దర్శకత్వం వహిస్తున్నారు."
+  },
+  {
+    "english": "Gadkari is pitted against former MP and Congress leader Nana Patole in Nagpur.",
+    "reference": "బీజేపీ మాజీ ఎంపీ, కాంగ్రెస్‌ అభ్యర్థి నానా పటోల్‌ను గడ్కరీ ఢకొీంటున్నారు.",
+    "scratch": "మాజీ మాజీ మాజీ మాజీ మాజీ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "నాగ్పూర్లో మాజీ ఎంపీ, కాంగ్రెస్ నేత నానా పటోలేతో గడ్కరీ పోటీ చేస్తున్నారు."
+  },
+  {
+    "english": "Several editions came out after that.",
+    "reference": "ఆ తర్వాత చాలా వెర్షన్లు వచ్చాయి.",
+    "scratch": "<unk> తర్వాత తర్వాత <unk> <unk> <unk>",
+    "nllb": "ఆ తరువాత అనేక సంస్కరణలు వచ్చాయి."
+  },
+  {
+    "english": "Both would eat together.",
+    "reference": "ఇరువురు కలిసి భోజనం చేస్తారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఇద్దరూ కలిసి తింటారు."
+  },
+  {
+    "english": "However, permission was not granted.",
+    "reference": "అయితే బెయిల్ మంజూరు కాలేదని చెప్పుకొచ్చారు.",
+    "scratch": "అయితే <unk> <unk> <unk> <unk>",
+    "nllb": "అయితే అనుమతి ఇవ్వలేదు."
+  },
+  {
+    "english": "The two have been dating since 2012.",
+    "reference": "వీరిద్దరూ 2012 నుంచి డేటింగ్ చేశారని ఆ వార్తల సారాంశం.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "వీరిద్దరూ 2012 నుండి డేటింగ్ చేస్తున్నారు."
+  },
+  {
+    "english": "\"It\"\"s rare, but very much possible.\"",
+    "reference": "అరుదైన, కానీ అతిసారం సంభవించవచ్చు.",
+    "scratch": "కానీ <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "\"ఇది చాలా అరుదు, కానీ చాలా అవకాశం ఉంది. \""
+  },
+  {
+    "english": "75 lakh, Rs.",
+    "reference": "75 వేల కోట్లు అయితే, పదేళ్లకు రూ.",
+    "scratch": "75 <unk> <unk> <unk> <unk> <unk> రూ.",
+    "nllb": "75 లక్షలు, రూ."
+  },
+  {
+    "english": "Show flags in the applet to indicate the current layout",
+    "reference": "ప్రస్తుత నమూనాను సూచించుటకు ఆప్లెట్ నందు ప్లాగ్స్ ను చూపుము",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ప్రస్తుత లేఅవుట్ను సూచించడానికి ఆప్లెట్లో జెండాలను చూపించు"
+  },
+  {
+    "english": "What is Modi saying?",
+    "reference": "మరి మోదీ ఏమంటారో?",
+    "scratch": "మోడీ <unk>",
+    "nllb": "మోదీ ఏం చెబుతున్నారు?"
+  },
+  {
+    "english": "Submit an application",
+    "reference": "ఒక అప్లికేషన్ దాఖలు",
+    "scratch": "ఆర్థిక <unk> <unk> <unk> <unk>",
+    "nllb": "దరఖాస్తు సమర్పించండి"
+  },
+  {
+    "english": "President George W. Bush",
+    "reference": "ప్రెసిడెంట్ జార్జ్ W.",
+    "scratch": "రాష్ట్రపతి <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అధ్యక్షుడు జార్జ్ డబ్ల్యు బుష్"
+  },
+  {
+    "english": "Before the game",
+    "reference": "ఆట ముందు గ్రీటింగ్",
+    "scratch": "<unk> ముందు. <unk>",
+    "nllb": "ఆట ముందు"
+  },
+  {
+    "english": "Whats the motivation to do such films?",
+    "reference": "ఆ సినిమాలు అలా నిలబడిపోవడానికి కారణమేంటి?",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అలాంటి సినిమాలు చేయడానికి ప్రేరణ ఏమిటి?"
+  },
+  {
+    "english": "The BJP won 14 out of the 16 mayoral seats in the state",
+    "reference": "16 మునిసిపల్‌ కార్పొరేషన్లలో 14 చోట్ల బీజేపీ జెండా ఎగురవేసింది",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "రాష్ట్రంలోని 16 మేయర్ సీట్లలో 14 సీట్లను బీజేపీ గెలుచుకుంది."
+  },
+  {
+    "english": "Who will it hurt?",
+    "reference": "అతని వల్ల ఎవరికి నష్టం కలుగుతుంది?",
+    "scratch": "<unk> <unk>",
+    "nllb": "ఇది ఎవరికి హాని చేస్తుంది?"
+  },
+  {
+    "english": "BJP activists hold protest",
+    "reference": "నిరసనకారులు ఏర్పాటు చేసిన ఫ్లెక్సీలను తొలగిస్తున్న బీజేపీ కార్యకర్తలు",
+    "scratch": "బీజేపీ బీజేపీ <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "బిజెపి కార్యకర్తలు నిరసన"
+  },
+  {
+    "english": "He has died.",
+    "reference": "వీడు చచ్చిపోయాడు.",
+    "scratch": "తాను <unk> <unk> <unk> <unk>",
+    "nllb": "అతను మరణించాడు."
+  },
+  {
+    "english": "The Sting (1973)",
+    "reference": "'ది స్టింగ్' - 1973",
+    "scratch": "<unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ది స్టింగ్ (1973)"
+  },
+  {
+    "english": "After Article 370 was abrogated, Kashmir has become a new Kashmir.",
+    "reference": "ఆర్టికల్ 370, జమ్మూకశ్మీర్ విభజన తర్వాత కశ్మీర్ లోయ నివురు గప్పిన నిప్పులా మారింది.",
+    "scratch": "ఆర్టికల్ తర్వాత <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఆర్టికల్ 370 రద్దు అయిన తరువాత కశ్మీర్ కొత్త కశ్మీర్గా మారింది."
+  },
+  {
+    "english": "A BJP MLA in UP raped a woman.",
+    "reference": "ఉత్తరప్రదేశ్‌లో ఒక బీజేపీ ఎమ్మెల్యే ఒక బాలికపై అత్యాచారానికి పాల్పడ్డారన్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఉత్తరప్రదేశ్ లో బిజెపి ఎమ్మెల్యే ఓ మహిళపై అత్యాచారం చేశారు."
+  },
+  {
+    "english": "We want an inquiry into this.",
+    "reference": "దీన్ని మేము ప్రశ్నించాలనుకుంటున్నాం.",
+    "scratch": "ఈ విషయాన్ని <unk> <unk> <unk>",
+    "nllb": "మేము ఈ ఒక విచారణ కోరుకుంటున్నారో."
+  },
+  {
+    "english": "He's the one!",
+    "reference": "అతను, అతనే!",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "అతను ఒక వ్యక్తి!"
+  },
+  {
+    "english": "She did not give up.",
+    "reference": "ఆమె డోరును వదల్లేదు.",
+    "scratch": "ఆమె <unk> <unk> <unk>",
+    "nllb": "ఆమె నిరాకరించలేదు."
+  },
+  {
+    "english": "He was rescued by the police and taken to a hospital.",
+    "reference": "బాధతో విలవిల్లాడుతున్న అతడిని పోలీసులు రక్షించి ఆస్పత్రికి తరలించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అతను పోలీసులచే రక్షించబడ్డాడు మరియు ఆసుపత్రికి తీసుకెళ్లబడ్డాడు."
+  },
+  {
+    "english": "He went to the kitchen.",
+    "reference": "ంటగది వైపు నడిచింది.",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "అతను వంటగది వెళ్ళింది."
+  },
+  {
+    "english": "Coronavirus: UK PM Boris Johnson shifted to ICU",
+    "reference": "బ్రిటన్ ప్రధాని బోరిస్ జాన్సన్ సైతం వైరస్ బారినపడి ఐసీయూలో చికిత్స పొందుతున్నారు",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "కరోనా వైరస్ః బ్రిటన్ ప్రధాని బోరిస్ జాన్సన్ ఐసీయూలో చేరారు"
+  },
+  {
+    "english": "Shamshad Ansari, Ravindra Kumar, Munna Ram, Pappu Singh, Ashok Thakur, Ramesh Singh, Nasim Khan and others participated in the event.",
+    "reference": "ఆనంద్ ప్రసాద్, ఆదిశేషగిరి రావు, జెమిని కిరణ్, అశోక్ కుమార్, ప్రసన్నకుమార్, ఎన్. వి. రెడ్డి, సాగర్, రామసత్యనారాయణ తదితరులు పాల్గొన్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఈ కార్యక్రమంలో శంషద్ అన్సారీ, రవీంద్ర కుమార్, మున్నా రామ్, పాపు సింగ్, అశోక్ ठाकुर, రమేష్ సింగ్, నాసిం ఖాన్ మరియు ఇతరులు పాల్గొన్నారు."
+  },
+  {
+    "english": "But life was not going to be a bed of roses. Tragedy lay in our future.",
+    "reference": "కానీ జీవితం పూలపానుపు కాదు.",
+    "scratch": "కానీ మన మన మన <unk> <unk> <unk> <unk>",
+    "nllb": "కానీ జీవితం గులాబీల మంచం కాదు. విషాదం మన భవిష్యత్తులో ఉంది."
+  },
+  {
+    "english": "This resulted in Rs.",
+    "reference": "దీని వల్ల ప్రభుత్వంపై ఏటా రూ.",
+    "scratch": "ఈ ఏడాది ఏడాది <unk> రూ.",
+    "nllb": "దీని ఫలితంగా రూ."
+  },
+  {
+    "english": "I dont care about my opponents.",
+    "reference": "నేను ఎదుటి వారి గురించి పట్టించుకోను.",
+    "scratch": "నా నా <unk> <unk> <unk>",
+    "nllb": "నా ప్రత్యర్థుల గురించి నేను పట్టించుకోను."
+  },
+  {
+    "english": "Indian Prime Minister Narendra Modi tweeted his congratulations.",
+    "reference": "భారత ప్రధాని నరేంద్ర మోదీకి శుభాకాంక్షల వెల్లువ . హిందీలో శుభాకాంక్షలు తెలుపుతూ ట్వీట్ చేసిన సచిన్.",
+    "scratch": "ప్రధాని నరేంద్ర మోడీ ప్రధాని నరేంద్ర మోదీ <unk> <unk>",
+    "nllb": "భారత ప్రధాన మంత్రి నరేంద్ర మోదీ ట్విట్టర్ లో అభినందనలు తెలిపారు."
+  },
+  {
+    "english": "PM Modi slams Rajasthan CM Ashok Gehlot over Alwar gang rape.",
+    "reference": "అల్వార్ రేప్ ఘటనపై రాజస్థాన్ సిఎం అశోక్ గెహ్లాట్ ప్రభుత్వాన్ని ఉద్దేశించి ఘాటైన విమర్శలు చేశారు.",
+    "scratch": "ప్రధాని మోదీ ప్రధాని మోదీ <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అల్వార్లో సామూహిక అత్యాచారానికి పాల్పడినందుకు రాజస్థాన్ సీఎం అశోక్ గెహ్లాట్ను ప్రధాని మోదీ ఖండించారు."
+  },
+  {
+    "english": "They were shifted to a local hospital.",
+    "reference": "వారిని స్థానిక ఏరియా ఆస్పత్రికి తరలించారు.",
+    "scratch": "<unk> వారిని <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "వారిని స్థానిక ఆసుపత్రికి తరలించారు."
+  },
+  {
+    "english": "Lets talk about the film.",
+    "reference": "సినిమా గురించి సినిమానే మాట్లాడాలి.",
+    "scratch": "ఈ సినిమా గురించి <unk>",
+    "nllb": "యొక్క చిత్రం గురించి మాట్లాడటానికి లెట్."
+  },
+  {
+    "english": "File f_ormat:",
+    "reference": "ఫైల్ ఫార్మేటు (_o):",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "ఫైల్ ఫార్మాట్ః"
+  },
+  {
+    "english": "That means theres far more demand than supply.",
+    "reference": "అంటే సప్లయి కంటే డిమాండ్ చాలా ఎక్కువ.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అంటే సరఫరా కంటే డిమాండ్ చాలా ఎక్కువ."
+  },
+  {
+    "english": "But they will disappear soon.",
+    "reference": "కానీ వెంటనే అదృశ్యమవుతుంది.",
+    "scratch": "అయితే వారు <unk> <unk> <unk> <unk>",
+    "nllb": "కానీ అవి త్వరలోనే అదృశ్యమవుతాయి."
+  },
+  {
+    "english": "Out of spite.",
+    "reference": "\"\"\"ఆఫ్ కోర్స్.\"",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "కోపం నుండి."
+  },
+  {
+    "english": "29,000 crore.",
+    "reference": "29,000 కోట్లు నష్టపోయారు.",
+    "scratch": "<unk> కోట్లు <unk> <unk>",
+    "nllb": "29,000 కోట్లు."
+  },
+  {
+    "english": "He suited the role perfectly.",
+    "reference": "ఆ పాత్రకి అతను పరిపూర్ణ న్యాయం చేసాడు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అతను పాత్రకు ఖచ్చితంగా సరిపోయేవాడు."
+  },
+  {
+    "english": "Financial assistance is also distributed to students from economically backward families, they said in the release.",
+    "reference": "అలాగే ఆర్థికంగా వెనకబడిన వర్గాల విద్యార్థు లకు ఆర్థిక సహాయం చేయనున్నట్లు ప్రకటించారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఆర్థికంగా వెనుకబడిన కుటుంబాల విద్యార్థులకు ఆర్థిక సహాయం కూడా పంపిణీ చేయబడుతోందని వారు వెల్లడించారు."
+  },
+  {
+    "english": "It has not been reconstituted for a long time.",
+    "reference": "చాలా కాలంగా నిర్మాణానికి మాత్రం నోచుకోలేదు.",
+    "scratch": "అది <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఇది చాలా కాలంగా పునర్నిర్మించబడలేదు."
+  },
+  {
+    "english": "When will he?",
+    "reference": "అతను ఎప్పుడు కలవబోతున్నాడు?",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "అతను ఎప్పుడు చేస్తాడు?"
+  },
+  {
+    "english": "Wife of Shah Rukh Khan, Gauri Khan works as a producer.",
+    "reference": "ఈ చిత్రాన్ని షారుఖ్ ఖాన్ సతీమణి గౌరీ ఖాన్ నిర్మిస్తోంది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "షారుఖ్ ఖాన్ భార్య గాయురీ ఖాన్ నిర్మాతగా పనిచేస్తున్నారు."
+  },
+  {
+    "english": "Top-notch camera.",
+    "reference": "ఉత్తమ అధునాతన కెమెరా .",
+    "scratch": "<unk> <unk> <unk> <unk>",
+    "nllb": "అత్యుత్తమ కెమెరా."
+  },
+  {
+    "english": "There are playgrounds and childrens play areas.",
+    "reference": "పిల్లలకు ఈత కొలను మరియు ఆట స్థలం ఉంది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఆట స్థలాలు మరియు పిల్లల ఆట స్థలాలు ఉన్నాయి."
+  },
+  {
+    "english": "In this budget, Rs.",
+    "reference": "ఈ కార్యక్రమం కోసం బడ్జెట్‌లో రూ.",
+    "scratch": "ఈ ఏడాది ఏడాది ఏడాది ఏడాది బడ్జెట్‌లో రూ.",
+    "nllb": "ఈ బడ్జెట్ లో రూ."
+  },
+  {
+    "english": "It can seat up to five people with utmost comfort.",
+    "reference": "ఐదుగురు వరకు సౌకర్యవంతంగా ఇందులో కూర్చొని ప్రయాణించే సౌలభ్యాన్ని ఉంచింది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ఇది గరిష్ట సౌలభ్యంతో ఐదుగురు వరకు కూర్చోగలదు."
+  },
+  {
+    "english": "While Rajani and Madhukar died on the spot, Suresh died while undergoing treatment in a hospital.",
+    "reference": "ఈ ప్రమాదంలో రజనీకాంత్, మధుకర్ అక్కడికక్కడే చనిపోగా సురేష్‌ని ఆస్పత్రికి తీసుకెళ్తుండగా ప్రాణాలు విడిచాడు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "రజనీ, మధుకర్ అక్కడికక్కడే మృతి చెందగా, సురేష్ ఆసుపత్రిలో చికిత్స పొందుతూ మృతి చెందారు."
+  },
+  {
+    "english": "Starting -- find links as you type",
+    "reference": "మొదలు - లింకులు వ్రాస్తుండగా వెతుకు",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "ప్రారంభించండి - మీరు టైప్ చేస్తున్నప్పుడు లింక్లను కనుగొనండి"
+  },
+  {
+    "english": "Even stupidity should have its limits.",
+    "reference": "మూర్ఖత్వానికి కూడా పరిధులు ఉండాలి.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "మూర్ఖత్వం కూడా దాని పరిమితులను కలిగి ఉండాలి."
+  },
+  {
+    "english": "150 crores.",
+    "reference": "150 కోట్లను కేటాయించారు.",
+    "scratch": "150 కోట్లు కోట్లు <unk> <unk>",
+    "nllb": "150 కోట్లు."
+  },
+  {
+    "english": "They cant imagine life without it.",
+    "reference": "వారు ఒంటరిగా తమ జీవితం ఊహించలేము.",
+    "scratch": "వారు <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "వారు అది లేకుండా జీవితం ఊహించలేము."
+  },
+  {
+    "english": "He followed this with Max in Der Freischtz at Stuttgart.",
+    "reference": "ఆ తరువాత జ్యూరిచ్ లో గ్రాస్మున్స్టర్ లో మతాధికారిగా పనిచేశాడు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "అతను స్టుట్గార్ట్ లో డర్ ఫ్రీష్ట్జ్ లో మాక్స్ తో ఈ అనుసరించారు."
+  },
+  {
+    "english": "Nothing wrong",
+    "reference": "`ఏం బాగోలేదు’",
+    "scratch": "ఏమీ ఏమీ ఏమీ ఏమీ",
+    "nllb": "ఏమీ తప్పు లేదు"
+  },
+  {
+    "english": "Telangana protest continues on day two",
+    "reference": "రెండో రోజూ కొనసాగుతున్న తెలంగాణ బంద్",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "తెలంగాణ నిరసన రెండో రోజు కొనసాగుతోంది"
+  },
+  {
+    "english": "The Bhartiya Janata Party (BJP) has lost another state.",
+    "reference": "బీజేపీ చేతి నుంచి మరో రాష్ట్రం చేజారింది.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "భారతీయ జనతా పార్టీ మరో రాష్ట్రాన్ని కోల్పోయింది."
+  },
+  {
+    "english": "Defence Minister Rajnath Singh...",
+    "reference": "కేంద్ర రక్షణశాఖ మంత్రి రాజ్‌నాథ్‌ సింగ్‌, రైల్వేమంత్రి .",
+    "scratch": "<unk> <unk> <unk> మంత్రి మంత్రి <unk> <unk>",
+    "nllb": "రక్షణ మంత్రి రాజనాథ్ సింగ్."
+  },
+  {
+    "english": "One such incident took place in Tampa in Florida.",
+    "reference": "తాజాగా అమెరికాలోని ఫ్లొరిడాలోని ఇలాంటి ఒక సంఘటన జరిగింది.",
+    "scratch": "జిల్లాలో జిల్లాలో జిల్లాలో జిల్లాలో జిల్లాలో ఇలాంటి చోటు చేసుకుంది.",
+    "nllb": "ఒక సంఘటన ఫ్లోరిడాలోని టాంపాలో జరిగింది."
+  },
+  {
+    "english": "What is the core message of the book?",
+    "reference": "పుస్తకం యొక్క ప్రధాన లక్షణం ఏమిటి?",
+    "scratch": "<unk> <unk> <unk>",
+    "nllb": "ఈ పుస్తకం యొక్క ప్రధాన సందేశం ఏమిటి?"
+  },
+  {
+    "english": "Health Benefits of Pecans",
+    "reference": "పీచెస్ యొక్క ఆరోగ్య ప్రయోజనాలు",
+    "scratch": "ఆరోగ్య ఆరోగ్య ప్రయోజనాలు ప్రయోజనాలు ప్రయోజనాలు",
+    "nllb": "పెకాన్ల ఆరోగ్య ప్రయోజనాలు"
+  },
+  {
+    "english": "They have been close friends since childhood.",
+    "reference": "వారు చిన్నప్పుడు పాఠశాల రోజుల నుండి స్నేహితులే.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "వారు చిన్నతనం నుండి సన్నిహితులు."
+  },
+  {
+    "english": "The library houses 42,000 books .",
+    "reference": "42,000 పుస్తకాలతో శాసనసభ గ్రంధాలయం అద్భుతంగా ఉందన్నారు.",
+    "scratch": "<unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "nllb": "గ్రంథాలయంలో 42,000 పుస్తకాలు ఉన్నాయి ."
+  }
+]
